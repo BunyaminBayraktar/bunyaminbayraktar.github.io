@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">FC26 Squad Sync</title>
+  <defs><linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#102c50" stroke="#2b5786" stroke-width="2"/>
+  <path d="M18 18h17c7.2 0 13 5.8 13 13v1" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round"/>
+  <path d="m42 26 6 6 6-6" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 46H29c-7.2 0-13-5.8-13-13v-1" fill="none" stroke="#34d399" stroke-width="6" stroke-linecap="round"/>
+  <path d="m22 38-6-6-6 6" fill="none" stroke="#6ee7b7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="5" fill="#fff"/>
+</svg>

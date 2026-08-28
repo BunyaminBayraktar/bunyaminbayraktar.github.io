@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#081a31">
+  <meta name="description" content="FC26 kadrolarını takım takım güncellemek için hızlı, ücretsiz ve tarayıcı tabanlı transfer rehberi.">
+  <meta name="google-adsense-account" content="ca-pub-9303540424921408">
+  <title>FC26 Squad Sync</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9303540424921408" crossorigin="anonymous"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <img class="brand-mark" src="./logo.svg" alt="" width="50" height="50">
+      <div class="brand-copy">
+        <strong>FC26 SQUAD SYNC</strong>
+        <span>Kadro Güncelleme Rehberi</span>
+      </div>
+    </div>
+
+    <nav aria-label="Ana menü">
+      <button class="nav-btn active" data-view="ps5"><span class="nav-icon" aria-hidden="true">▶</span><span>PS5 Hızlı Mod</span></button>
+      <button class="nav-btn" data-view="transfers"><span class="nav-icon" aria-hidden="true">↔</span><span>Transferler</span></button>
+      <button class="nav-btn" data-view="creates"><span class="nav-icon" aria-hidden="true">＋</span><span>Create Oyuncular</span></button>
+      <button class="nav-btn" data-view="exists"><span class="nav-icon" aria-hidden="true">✓</span><span>Mevcut Oyuncular</span></button>
+      <button class="nav-btn" data-view="unresolved"><span class="nav-icon" aria-hidden="true">?</span><span>İnceleme</span></button>
+    </nav>
+
+    <div class="sidebar-stats">
+      <div class="data-ready"><i></i> Veri hazır</div>
+      <div class="sidebar-stat-row"><span>Yapıldı</span><strong id="sidebarDone">0</strong></div>
+      <div class="sidebar-stat-row"><span>Kalan</span><strong id="sidebarRemaining">0</strong></div>
+      <p>İlerlemen yalnızca bu tarayıcıda saklanır.</p>
+    </div>
+  </aside>
+
+  <main class="main">
+    <section id="ps5View" class="view active">
+      <header class="page-header">
+        <div>
+          <div class="eyebrow">OYUN İÇİ UYGULAMA REHBERİ</div>
+          <h1>PS5 Hızlı Mod</h1>
+          <p>Hedef takımı bir kez aç, listedeki oyuncuları art arda transfer et.</p>
+        </div>
+        <div class="header-actions">
+          <button id="shareTeamBtn" class="ghost share-button" type="button"><span aria-hidden="true">↗</span> Takımı paylaş</button>
+          <button id="resetAllBtn" class="ghost danger" type="button">İlerlemeyi sıfırla</button>
+        </div>
+      </header>
+
+      <div class="metrics" aria-label="Genel ilerleme">
+        <article class="metric metric-total"><span>TOPLAM TRANSFER</span><strong id="totalTransfers">0</strong><small>uygulanacak işlem</small></article>
+        <article class="metric metric-done"><span>YAPILDI</span><strong id="doneTransfers">0</strong><small id="donePercent">%0 tamamlandı</small></article>
+        <article class="metric metric-remaining"><span>KALAN</span><strong id="remainingTransfers">0</strong><small>transfer bekliyor</small></article>
+      </div>
+
+      <section class="toolbar" aria-label="Takım seçimi">
+        <div class="field"><label for="teamSelect">Hedef takım</label><select id="teamSelect"></select></div>
+        <div class="team-progress-row"><div class="progress-text" id="teamProgressText"></div><strong id="teamProgressPercent">%0</strong></div>
+        <div class="progress-track" role="progressbar" aria-label="Takım ilerlemesi" aria-valuemin="0" aria-valuemax="100"><div id="teamProgressBar" class="progress-bar"></div></div>
+      </section>
+
+      <section id="currentCard" class="hero" aria-live="polite"></section>
+
+      <div class="actions">
+        <button id="doneBtn" class="primary" type="button">✓ YAPILDI — SIRADAKİNE GEÇ</button>
+        <button id="skipBtn" class="warning" type="button">ATLA</button>
+      </div>
+      <div class="secondary-actions"><button id="undoBtn" class="ghost" type="button">↶ Son işlemi geri al</button></div>
+
+      <section class="next-section">
+        <div class="section-heading"><div><span class="section-kicker">SIRA</span><h2>Sonraki Oyuncular</h2></div></div>
+        <div id="nextPlayers"></div>
+      </section>
+
+      <section class="team-section">
+        <div class="section-heading team-heading">
+          <div><span class="section-kicker">GENEL DURUM</span><h2>Takım Takım İlerleme</h2></div>
+          <div class="team-summary" id="teamSummary"></div>
+        </div>
+        <div class="team-tools">
+          <input id="teamSearchInput" type="search" placeholder="Takım ara..." aria-label="İlerleme listesinde takım ara">
+          <select id="teamStatusFilter" aria-label="Takım durumuna göre filtrele">
+            <option value="pending">Tamamlanmayanlar</option>
+            <option value="all">Tüm takımlar</option>
+            <option value="complete">Tamamlananlar</option>
+          </select>
+        </div>
+        <div id="teamProgressGrid" class="team-grid"></div>
+      </section>
+    </section>
+
+    <section id="listView" class="view">
+      <header class="page-header">
+        <div><div class="eyebrow">KADRO VERİLERİ</div><h1 id="listTitle">Transferler</h1><p id="listCount"></p></div>
+        <button id="shareListBtn" class="ghost share-button" type="button"><span aria-hidden="true">↗</span> Görünümü paylaş</button>
+      </header>
+
+      <div class="filters">
+        <div class="search-field"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Oyuncu veya takım ara..." aria-label="Oyuncu veya takım ara"></div>
+        <select id="filterTeam" aria-label="Takıma göre filtrele"></select>
+        <select id="filterStatus" aria-label="İlerleme durumuna göre filtrele">
+          <option value="">Tüm durumlar</option>
+          <option value="pending">Yapılmadı</option>
+          <option value="done">Yapıldı</option>
+          <option value="skipped">Atlandı</option>
+        </select>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>DURUM</th><th>OYUNCU</th><th>KAYNAK TAKIM</th><th>HEDEF TAKIM</th><th>FC ID</th><th>TM ID</th></tr></thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+        <div id="tableEmpty" class="empty-state" hidden><strong>Eşleşen kayıt bulunamadı.</strong><span>Arama veya filtreleri değiştirmeyi dene.</span></div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <span>© 2026 FC26 Squad Sync</span>
+      <a href="./privacy.html">Gizlilik ve Çerez Politikası</a>
+    </footer>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js"></script>
+</body>
+</html>
