@@ -101,6 +101,38 @@ nav{display:grid;gap:6px}
 .main{margin-left:280px;padding:38px clamp(24px,4vw,62px) 70px;max-width:1780px}
 .view{display:none}.view.active{display:block}
 
+.pc-page-header{align-items:center}
+.version-badge{display:inline-flex;align-items:center;min-height:32px;padding:0 11px;border:1px solid #c8d8ea;border-radius:999px;background:#fff;color:#47627f;font-size:11px;font-weight:850}
+.pc-hero-card{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(320px,.75fr);gap:34px;align-items:center;overflow:hidden;padding:clamp(25px,4vw,46px);border:1px solid #173f68;border-radius:24px;background:radial-gradient(circle at 15% 0%,rgba(56,189,248,.18),transparent 38%),linear-gradient(135deg,#071a31,#0c3157);color:#fff;box-shadow:var(--shadow)}
+.pc-hero-copy{min-width:0}
+.pc-badges{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:18px}
+.pc-badges span{display:inline-flex;align-items:center;min-height:26px;padding:0 9px;border:1px solid rgba(125,211,252,.24);border-radius:999px;background:rgba(56,189,248,.09);color:#bde8ff;font-size:9px;font-weight:850;letter-spacing:.035em}
+.pc-hero-card h2{max-width:690px;margin:0;font-size:clamp(30px,4vw,48px);line-height:1.06;letter-spacing:-.045em}
+.pc-hero-card h2 strong{color:#7dd3fc}
+.pc-hero-copy>p{max-width:690px;margin:17px 0 0;color:#b9cde2;font-size:15px;line-height:1.65}
+.pc-cta-row{display:flex;align-items:center;flex-wrap:wrap;gap:17px;margin-top:25px}
+.download-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 19px;border:1px solid #50d5aa;border-radius:11px;background:linear-gradient(135deg,#12ad78,#0b895f);color:#fff;text-decoration:none;font-size:13px;font-weight:900;box-shadow:0 11px 25px rgba(3,111,77,.3);transition:transform .15s ease,box-shadow .18s ease}
+.download-button span{font-size:21px;line-height:1}.download-button:hover{transform:translateY(-1px);box-shadow:0 14px 28px rgba(3,111,77,.4)}
+.download-button:focus-visible,.pc-text-link:focus-visible{outline:3px solid rgba(125,211,252,.42);outline-offset:3px}
+.pc-text-link{color:#bde8ff;font-size:12px;font-weight:850;text-underline-offset:3px}
+.download-meta{display:block;margin-top:12px;color:#7997b5;font-size:10px}
+.pc-result-panel{overflow:hidden;border:1px solid rgba(255,255,255,.15);border-radius:17px;background:rgba(4,18,35,.56);box-shadow:0 22px 45px rgba(0,0,0,.22);backdrop-filter:blur(8px)}
+.result-window-bar{display:flex;align-items:center;gap:6px;min-height:40px;padding:0 14px;border-bottom:1px solid rgba(255,255,255,.1);color:#7896b5;font-size:9px;font-weight:850;letter-spacing:.08em}
+.result-window-bar i{display:block;width:7px;height:7px;border-radius:50%;background:#ff7d6e}.result-window-bar i:nth-child(2){background:#f7c95b}.result-window-bar i:nth-child(3){background:#4ed39d}.result-window-bar span{margin-left:6px}
+.result-status{display:flex;align-items:center;gap:12px;padding:20px 18px;border-bottom:1px solid rgba(255,255,255,.09)}
+.result-status>span{display:grid;place-items:center;flex:0 0 36px;width:36px;height:36px;border-radius:50%;background:rgba(52,211,153,.14);border:1px solid rgba(110,231,183,.27);color:#6ee7b7;font-weight:900}
+.result-status strong{display:block;font-size:12px}.result-status small{display:block;margin-top:4px;color:#7896b5;font-size:9px}
+.result-stats{display:grid;grid-template-columns:repeat(3,1fr);margin:0;padding:16px 18px;gap:9px}
+.result-stats div{min-width:0}.result-stats dt{color:#7896b5;font-size:8px;font-weight:850;text-transform:uppercase;letter-spacing:.05em}.result-stats dd{margin:5px 0 0;font-size:15px;font-weight:900;white-space:nowrap}
+.feed-note{display:flex;align-items:center;gap:17px;margin-top:14px;padding:16px 18px;border:1px solid #cfe5dc;border-radius:14px;background:#f8fffc}
+.feed-live{display:inline-flex;align-items:center;gap:7px;flex:0 0 auto;color:#087753;font-size:9px;font-weight:900;letter-spacing:.09em}.feed-live i{width:8px;height:8px;border-radius:50%;background:#16b87e;box-shadow:0 0 0 5px rgba(22,184,126,.1)}
+.feed-note strong{display:block;font-size:12px}.feed-note p{margin:4px 0 0;color:#6e7f90;font-size:11px;line-height:1.5}
+.pc-section{margin-top:32px}.pc-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:11px}
+.pc-steps article{position:relative;min-height:180px;padding:22px 20px;border:1px solid var(--line);border-radius:15px;background:#fff;box-shadow:0 5px 16px rgba(25,49,78,.025)}
+.pc-steps article>span{display:block;color:#76a6dd;font-size:11px;font-weight:950;letter-spacing:.1em}.pc-steps h3{margin:25px 0 8px;font-size:16px}.pc-steps p{margin:0;color:#6b7c8f;font-size:12px;line-height:1.65}.pc-steps p strong{color:#3b526c}
+.pc-warning{display:flex;align-items:flex-start;gap:16px;margin-top:14px;padding:19px 20px;border:1px solid #f0d2a8;border-radius:15px;background:#fffaf2}
+.warning-icon{display:grid;place-items:center;flex:0 0 34px;width:34px;height:34px;border-radius:50%;background:#fff0d8;color:#a75512;font-weight:950}.pc-warning h2{margin:1px 0 6px;font-size:14px}.pc-warning p{margin:0;color:#765c43;font-size:11px;line-height:1.65}
+
 .page-header{
   display:flex;
   align-items:flex-start;
@@ -273,6 +305,8 @@ tbody tr:hover{background:#f8fbfe}
 
 @media(max-width:1180px){.team-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 
+@media(max-width:1100px){.pc-hero-card{grid-template-columns:1fr}.pc-result-panel{max-width:580px}.pc-steps{grid-template-columns:1fr}.pc-steps article{min-height:0}.pc-steps h3{margin-top:14px}}
+
 @media(max-width:900px){
   .sidebar{position:static;width:auto;padding:17px 16px 12px;overflow:visible}
   .brand{padding:0 0 14px;margin-bottom:11px}.brand-mark{width:42px;height:42px}
@@ -296,6 +330,7 @@ tbody tr:hover{background:#f8fbfe}
   .team-heading{display:block}.team-summary{margin-top:7px}
   .site-footer{display:grid;text-align:center;justify-content:center}
   .toast{left:16px;right:16px;bottom:16px;max-width:none;text-align:center}
+  .pc-page-header{display:flex}.pc-hero-card{padding:24px 19px;border-radius:19px}.pc-hero-card h2{font-size:32px}.pc-hero-copy>p{font-size:13px}.pc-cta-row{display:grid}.download-button{width:100%}.pc-text-link{text-align:center}.result-stats{grid-template-columns:1fr 1fr}.result-stats div:last-child{grid-column:1/-1}.feed-note{align-items:flex-start;flex-direction:column}.pc-warning{padding:17px}
 }
 
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}

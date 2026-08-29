@@ -5,7 +5,8 @@ let toastTimer = null;
 let TEAM_ROWS = new Map();
 
 const STORAGE_KEY = "fc26-control-progress-v1";
-const VALID_VIEWS = new Set(["ps5", "transfers", "creates", "exists", "unresolved"]);
+const LIST_VIEWS = new Set(["transfers", "creates", "exists", "unresolved"]);
+const VALID_VIEWS = new Set(["ps5", "pc", ...LIST_VIEWS]);
 const initialParams = new URLSearchParams(window.location.search);
 const initialState = {
   view: VALID_VIEWS.has(initialParams.get("view")) ? initialParams.get("view") : "ps5",
@@ -87,6 +88,11 @@ function renderSidebar(){
   const completed = DATA.transfers.filter(row => done.has(row.key)).length;
   document.querySelector("#sidebarDone").textContent = fmt(completed);
   document.querySelector("#sidebarRemaining").textContent = fmt(DATA.transfers.length - completed);
+}
+
+function renderPC(){
+  document.querySelector("#pcTransferCount").textContent = fmt(DATA.transfers.length);
+  renderSidebar();
 }
 
 function renderTeamSelect(keepValue = true, done = progressDoneKeys()){
@@ -352,10 +358,13 @@ function setView(view, updateUrl = true){
     button.classList.toggle("active", button.dataset.view === currentView);
   });
   document.querySelector("#ps5View").classList.toggle("active", currentView === "ps5");
-  document.querySelector("#listView").classList.toggle("active", currentView !== "ps5");
+  document.querySelector("#pcView").classList.toggle("active", currentView === "pc");
+  document.querySelector("#listView").classList.toggle("active", LIST_VIEWS.has(currentView));
 
   if(currentView === "ps5"){
     renderPS5();
+  }else if(currentView === "pc"){
+    renderPC();
   }else{
     currentList = currentView;
     rebuildListTeams();
@@ -375,7 +384,7 @@ function currentUrl(){
   if(currentView === "ps5"){
     const team = document.querySelector("#teamSelect").value;
     if(team) url.searchParams.set("team", team);
-  }else{
+  }else if(LIST_VIEWS.has(currentView)){
     const query = document.querySelector("#searchInput").value.trim();
     const team = document.querySelector("#filterTeam").value;
     const status = document.querySelector("#filterStatus").value;
@@ -464,12 +473,12 @@ async function init(){
   renderTeamSelect(false);
   document.querySelector("#searchInput").value = initialState.query;
   document.querySelector("#filterStatus").value = ["pending", "done", "skipped"].includes(initialState.status) ? initialState.status : "";
-  if(initialState.view !== "ps5"){
+  if(LIST_VIEWS.has(initialState.view)){
     currentList = initialState.view;
     rebuildListTeams(initialState.team);
   }
   setView(initialState.view, false);
-  if(initialState.view !== "ps5"){
+  if(LIST_VIEWS.has(initialState.view)){
     rebuildListTeams(initialState.team);
     renderList();
   }
