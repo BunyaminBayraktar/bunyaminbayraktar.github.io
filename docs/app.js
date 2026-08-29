@@ -41,6 +41,17 @@ function fmt(number){
   return Number(number || 0).toLocaleString("tr-TR");
 }
 
+function fmtCheckedAt(value){
+  if(!value) return "";
+  const date = new Date(value);
+  if(Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("tr-TR", {
+    dateStyle:"medium",
+    timeStyle:"short",
+    timeZone:"Europe/Istanbul"
+  }).format(date);
+}
+
 function percent(done, total){
   return total ? Math.round((done / total) * 100) : 0;
 }
@@ -92,6 +103,10 @@ function renderSidebar(){
 
 function renderPC(){
   document.querySelector("#pcTransferCount").textContent = fmt(DATA.transfers.length);
+  const checkedAt = fmtCheckedAt(DATA.last_checked_at);
+  document.querySelector("#pcDataStatus").textContent = checkedAt
+    ? `Son başarılı kontrol: ${checkedAt}.`
+    : "İlk otomatik kontrol bekleniyor.";
   renderSidebar();
 }
 
