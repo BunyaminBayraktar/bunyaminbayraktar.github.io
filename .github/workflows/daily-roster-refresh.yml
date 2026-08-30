@@ -22,19 +22,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Python sürümünü kontrol et
-        shell: pwsh
+        shell: powershell
         run: '& "C:\Program Files\Python312\python.exe" --version'
 
       - name: Gereksinimleri kur
-        shell: pwsh
+        shell: powershell
         run: '& "C:\Program Files\Python312\python.exe" -m pip install -r automation/requirements.txt'
 
       - name: Kadroları kontrol et
-        shell: pwsh
+        shell: powershell
         run: '& "C:\Program Files\Python312\python.exe" automation/daily_refresh.py'
 
       - name: Sonucu yayınla
-        shell: pwsh
+        shell: powershell
         run: |
           git diff --quiet -- docs/data.json automation/state/rosters.json
           if ($LASTEXITCODE -eq 0) {
