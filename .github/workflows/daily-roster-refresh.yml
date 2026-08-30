@@ -21,17 +21,17 @@ jobs:
       - name: Depoyu indir
         uses: actions/checkout@v4
 
-      - name: Python kur
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
+      - name: Python sürümünü kontrol et
+        shell: pwsh
+        run: '& "C:\Program Files\Python312\python.exe" --version'
 
       - name: Gereksinimleri kur
-        run: python -m pip install -r automation/requirements.txt
+        shell: pwsh
+        run: '& "C:\Program Files\Python312\python.exe" -m pip install -r automation/requirements.txt'
 
       - name: Kadroları kontrol et
-        run: python automation/daily_refresh.py
+        shell: pwsh
+        run: '& "C:\Program Files\Python312\python.exe" automation/daily_refresh.py'
 
       - name: Sonucu yayınla
         shell: pwsh
