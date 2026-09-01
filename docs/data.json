@@ -1,13 +1,22 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3393,
-    "creates": 3229,
+    "transfers": 3464,
+    "creates": 3265,
     "exists": 2302,
     "unresolved": 335,
     "fc26_unnamed_ids": 335
   },
   "transfers": [
+    {
+      "key": "TRANSFER|75654|987770|1. FC Heidenheim",
+      "fc_id": "75654",
+      "tm_id": "987770",
+      "player": "Alessandro Vogt",
+      "source": "TSG 1899 Hoffenheim",
+      "target": "1. FC Heidenheim",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
     {
       "key": "TRANSFER|241967|274274|1. FC Heidenheim",
       "fc_id": "241967",
@@ -205,6 +214,15 @@
       "source": "1. FC Nürnberg",
       "target": "1. FC Köln",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|72159|1011147|1. FC Köln",
+      "fc_id": "72159",
+      "tm_id": "1011147",
+      "player": "Mikey Moore",
+      "source": "Rangers",
+      "target": "1. FC Köln",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|80236|1064377|1. FC Köln",
@@ -1323,6 +1341,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|276827|1091219|Al Ettifaq",
+      "fc_id": "276827",
+      "tm_id": "1091219",
+      "player": "Abdoulaye Kanté",
+      "source": "Middlesbrough",
+      "target": "Al Ettifaq",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|220198|229695|Al Ettifaq",
       "fc_id": "220198",
       "tm_id": "229695",
@@ -2214,6 +2241,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|73098|1188989|Alemannia Aachen",
+      "fc_id": "73098",
+      "tm_id": "1188989",
+      "player": "Leonard",
+      "source": "FC Schalke 04",
+      "target": "Alemannia Aachen",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|274696|630761|Alemannia Aachen",
       "fc_id": "274696",
       "tm_id": "630761",
@@ -2364,15 +2400,6 @@
       "player": "Dan Sinaté",
       "source": "Angers SCO",
       "target": "Amiens SC",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|70069|682568|Anderlecht",
-      "fc_id": "70069",
-      "tm_id": "682568",
-      "player": "Cedric Hatenboer",
-      "source": "Telstar",
-      "target": "Anderlecht",
       "reason": "-"
     },
     {
@@ -2653,6 +2680,15 @@
       "source": "1. FC Nürnberg",
       "target": "Arminia Bielefeld",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|238792|273904|Arminia Bielefeld",
+      "fc_id": "238792",
+      "tm_id": "273904",
+      "player": "Leon Jensen",
+      "source": "Hertha BSC",
+      "target": "Arminia Bielefeld",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|262840|333239|Arminia Bielefeld",
@@ -3330,15 +3366,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|256427|795274|AZ",
-      "fc_id": "256427",
-      "tm_id": "795274",
-      "player": "Mayckel Lahdo",
-      "source": "Brøndby IF",
-      "target": "AZ",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|275867|793099|AZ",
       "fc_id": "275867",
       "tm_id": "793099",
@@ -3346,6 +3373,24 @@
       "source": "FC Groningen",
       "target": "AZ",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|270536|747487|AZ",
+      "fc_id": "270536",
+      "tm_id": "747487",
+      "player": "Valdemar Byskov",
+      "source": "FC Midtjylland",
+      "target": "AZ",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|216774|253765|AZ",
+      "fc_id": "216774",
+      "tm_id": "253765",
+      "player": "Wesley Hoedt",
+      "source": "Al Shabab",
+      "target": "AZ",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|214933|90800|Banfield",
@@ -3481,6 +3526,15 @@
       "source": "Kilmarnock",
       "target": "Barnet",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|275517|989824|Barnsley",
+      "fc_id": "275517",
+      "tm_id": "989824",
+      "player": "Ben Hamed Touré",
+      "source": "FC Annecy",
+      "target": "Barnsley",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|206089|167265|Barnsley",
@@ -3967,6 +4021,15 @@
       "source": "Blackburn Rovers",
       "target": "Birmingham City",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|73298|793873|BK Häcken",
+      "fc_id": "73298",
+      "tm_id": "793873",
+      "player": "Mads Agger",
+      "source": "Pogoń Szczecin",
+      "target": "BK Häcken",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|278720|877260|BK Häcken",
@@ -5445,6 +5508,15 @@
       "reason": "PUBLIC_FC_EXACT_NAME_CURRENT_TARGET_SOURCE_MAPPING_GAP"
     },
     {
+      "key": "TRANSFER|277512|890860|Burton Albion",
+      "fc_id": "277512",
+      "tm_id": "890860",
+      "player": "Caylan Vickers",
+      "source": "Wigan Athletic",
+      "target": "Burton Albion",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|233215|424456|Burton Albion",
       "fc_id": "233215",
       "tm_id": "424456",
@@ -5632,6 +5704,15 @@
       "source": "-",
       "target": "CA Unión (Santa Fe)",
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
+    },
+    {
+      "key": "TRANSFER|257320|484992|Cádiz CF",
+      "fc_id": "257320",
+      "tm_id": "484992",
+      "player": "Aimen Moueffek",
+      "source": "AS Saint-Étienne",
+      "target": "Cádiz CF",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|272305|566575|Cádiz CF",
@@ -5823,6 +5904,24 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|212153|197471|Cagliari",
+      "fc_id": "212153",
+      "tm_id": "197471",
+      "player": "Roberto Gagliardini",
+      "source": "Hellas Verona",
+      "target": "Cagliari",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|270341|915849|Cagliari",
+      "fc_id": "270341",
+      "tm_id": "915849",
+      "player": "Yanis Massolin",
+      "source": "Lombardia FC",
+      "target": "Cagliari",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|78415|984136|Cambridge United",
       "fc_id": "78415",
       "tm_id": "984136",
@@ -6003,6 +6102,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|82435|984373|Carrarese",
+      "fc_id": "82435",
+      "tm_id": "984373",
+      "player": "Tommaso Macchioni",
+      "source": "Sassuolo",
+      "target": "Carrarese",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|256738|631704|Casa Pia",
       "fc_id": "256738",
       "tm_id": "631704",
@@ -6026,6 +6134,15 @@
       "tm_id": "1104143",
       "player": "Benjamin Pauwels",
       "source": "CD Leganés",
+      "target": "Casa Pia",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|275714|823521|Casa Pia",
+      "fc_id": "275714",
+      "tm_id": "823521",
+      "player": "Evans Maurin",
+      "source": "Grenoble Foot 38",
       "target": "Casa Pia",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -6723,15 +6840,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|267941|965605|Charlton Athletic",
-      "fc_id": "267941",
-      "tm_id": "965605",
-      "player": "Daniel Kanu",
-      "source": "Walsall",
-      "target": "Charlton Athletic",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|239443|647138|Charlton Athletic",
       "fc_id": "239443",
       "tm_id": "647138",
@@ -6836,15 +6944,6 @@
       "tm_id": "67063",
       "player": "Danny Welbeck",
       "source": "Brighton & Hove Albion",
-      "target": "Chelsea",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|260942|787232|Chelsea",
-      "fc_id": "260942",
-      "tm_id": "787232",
-      "player": "David Datro Fofana",
-      "source": "RC Strasbourg",
       "target": "Chelsea",
       "reason": "-"
     },
@@ -7207,6 +7306,15 @@
       "source": "Leyton Orient",
       "target": "Chesterfield",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|277804|874043|Chesterfield",
+      "fc_id": "277804",
+      "tm_id": "874043",
+      "player": "Louie Marsh",
+      "source": "Sheffield United",
+      "target": "Chesterfield",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|78115|652635|Chesterfield",
@@ -8271,6 +8379,15 @@
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
     },
     {
+      "key": "TRANSFER|260193|579292|Degerfors IF",
+      "fc_id": "260193",
+      "tm_id": "579292",
+      "player": "Noel Milleskog",
+      "source": "IK Sirius",
+      "target": "Degerfors IF",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|77081|773062|Degerfors IF",
       "fc_id": "77081",
       "tm_id": "773062",
@@ -9117,6 +9234,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|251380|485960|Eintracht Frankfurt",
+      "fc_id": "251380",
+      "tm_id": "485960",
+      "player": "Lilian Brassier",
+      "source": "Stade Rennais",
+      "target": "Eintracht Frankfurt",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|255150|591193|Eintracht Frankfurt",
       "fc_id": "255150",
       "tm_id": "591193",
@@ -9430,6 +9556,15 @@
       "source": "Columbus Crew",
       "target": "ESTAC Troyes",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|257111|737781|ESTAC Troyes",
+      "fc_id": "257111",
+      "tm_id": "737781",
+      "player": "Jérémy Le Douaron",
+      "source": "Palermo",
+      "target": "ESTAC Troyes",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|271691|1009596|ESTAC Troyes",
@@ -10539,6 +10674,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|279841|1162160|FC København",
+      "fc_id": "279841",
+      "tm_id": "1162160",
+      "player": "Maher Carrizo",
+      "source": "Ajax",
+      "target": "FC København",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|74883|1106860|FC Lausanne-Sport",
       "fc_id": "74883",
       "tm_id": "1106860",
@@ -11007,6 +11151,24 @@
       "reason": "SOURCE_IN_HISTORY_CURRENT_TARGET_IS_LATEST"
     },
     {
+      "key": "TRANSFER|245152|552955|FC Porto",
+      "fc_id": "245152",
+      "tm_id": "552955",
+      "player": "Santiago Giménez",
+      "source": "Milano FC",
+      "target": "FC Porto",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|83381|1086258|FC Porto",
+      "fc_id": "83381",
+      "tm_id": "1086258",
+      "player": "Souza",
+      "source": "Tottenham Hotspur",
+      "target": "FC Porto",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|274078|575716|FC Porto",
       "fc_id": "274078",
       "tm_id": "575716",
@@ -11358,6 +11520,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|83177|1024739|FC Twente",
+      "fc_id": "83177",
+      "tm_id": "1024739",
+      "player": "Jordy Bawuah",
+      "source": "PSV",
+      "target": "FC Twente",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|255010|508639|FC Twente",
       "fc_id": "255010",
       "tm_id": "508639",
@@ -11518,6 +11689,15 @@
       "source": "Fortuna Sittard",
       "target": "FC Volendam",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|266927|673173|FC Volendam",
+      "fc_id": "266927",
+      "tm_id": "673173",
+      "player": "Frederik Ihler",
+      "source": "IF Elfsborg",
+      "target": "FC Volendam",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|228860|215551|FC Volendam",
@@ -13068,6 +13248,15 @@
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
     },
     {
+      "key": "TRANSFER|248820|388513|Girona FC",
+      "fc_id": "248820",
+      "tm_id": "388513",
+      "player": "Mateu Morey",
+      "source": "RCD Mallorca",
+      "target": "Girona FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|278391|970633|Girona FC",
       "fc_id": "278391",
       "tm_id": "970633",
@@ -14049,6 +14238,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|223933|320440|Hertha BSC",
+      "fc_id": "223933",
+      "tm_id": "320440",
+      "player": "Gustaf Nilsson",
+      "source": "Club Brugge",
+      "target": "Hertha BSC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|241474|331739|Hertha BSC",
       "fc_id": "241474",
       "tm_id": "331739",
@@ -14319,15 +14517,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|278986|969372|Huddersfield Town",
-      "fc_id": "278986",
-      "tm_id": "969372",
-      "player": "Tom Iorpenda",
-      "source": "Notts County",
-      "target": "Huddersfield Town",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|231777|271495|Hull City",
       "fc_id": "231777",
       "tm_id": "271495",
@@ -14452,6 +14641,24 @@
       "source": "Odense Boldklub",
       "target": "IF Elfsborg",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|267783|935358|IFK Göteborg",
+      "fc_id": "267783",
+      "tm_id": "935358",
+      "player": "Alexander Simmelhack",
+      "source": "Silkeborg IF",
+      "target": "IFK Göteborg",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|239084|495438|IFK Göteborg",
+      "fc_id": "239084",
+      "tm_id": "495438",
+      "player": "Kevin Ackermann",
+      "source": "IF Brommapojkarna",
+      "target": "IFK Göteborg",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|271090|496989|IFK Göteborg",
@@ -15966,6 +16173,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|77633|1160814|Le Havre AC",
+      "fc_id": "77633",
+      "tm_id": "1160814",
+      "player": "Rayan Fofana",
+      "source": "RC Lens",
+      "target": "Le Havre AC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|188538|122115|Le Havre AC",
       "fc_id": "188538",
       "tm_id": "122115",
@@ -16043,6 +16259,15 @@
       "tm_id": "470794",
       "player": "Ivan Ilić",
       "source": "Torino",
+      "target": "Lecce",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|258924|410787|Lecce",
+      "fc_id": "258924",
+      "tm_id": "410787",
+      "player": "Joël Almada Monteiro",
+      "source": "BSC Young Boys",
       "target": "Lecce",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -16596,6 +16821,15 @@
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
     },
     {
+      "key": "TRANSFER|264652|708265|Liverpool",
+      "fc_id": "264652",
+      "tm_id": "708265",
+      "player": "Bradley Barcola",
+      "source": "Paris Saint-Germain",
+      "target": "Liverpool",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|246174|565822|Liverpool",
       "fc_id": "246174",
       "tm_id": "565822",
@@ -16758,15 +16992,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|270341|915849|Lombardia FC",
-      "fc_id": "270341",
-      "tm_id": "915849",
-      "player": "Yanis Massolin",
-      "source": "Modena",
-      "target": "Lombardia FC",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|259162|569033|Los Angeles FC",
       "fc_id": "259162",
       "tm_id": "569033",
@@ -16774,6 +16999,15 @@
       "source": "1. FSV Mainz 05",
       "target": "Los Angeles FC",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|263364|674054|Los Angeles FC",
+      "fc_id": "263364",
+      "tm_id": "674054",
+      "player": "Leo Walta",
+      "source": "Swansea City",
+      "target": "Los Angeles FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|257346|343153|Los Angeles FC",
@@ -16819,6 +17053,15 @@
       "source": "Como",
       "target": "Los Angeles Galaxy",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|252162|589128|LOSC Lille",
+      "fc_id": "252162",
+      "tm_id": "589128",
+      "player": "Ayase Ueda",
+      "source": "Feyenoord",
+      "target": "LOSC Lille",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|73355|864112|LOSC Lille",
@@ -16992,6 +17235,24 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|207807|146795|Macarthur FC",
+      "fc_id": "207807",
+      "tm_id": "146795",
+      "player": "Ryan Fraser",
+      "source": "Western Sydney Wanderers",
+      "target": "Macarthur FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|70448|938146|Málaga CF",
+      "fc_id": "70448",
+      "tm_id": "938146",
+      "player": "Adam Aznou",
+      "source": "Everton",
+      "target": "Málaga CF",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|240289|357884|Málaga CF",
       "fc_id": "240289",
       "tm_id": "357884",
@@ -17035,6 +17296,15 @@
       "source": "CD Leganés",
       "target": "Malmö FF",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|256427|795274|Malmö FF",
+      "fc_id": "256427",
+      "tm_id": "795274",
+      "player": "Mayckel Lahdo",
+      "source": "AZ",
+      "target": "Malmö FF",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|216730|230140|Malmö FF",
@@ -17379,15 +17649,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|276827|1091219|Middlesbrough",
-      "fc_id": "276827",
-      "tm_id": "1091219",
-      "player": "Abdoulaye Kanté",
-      "source": "AS Saint-Étienne",
-      "target": "Middlesbrough",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|264731|859951|Middlesbrough",
       "fc_id": "264731",
       "tm_id": "859951",
@@ -17440,6 +17701,15 @@
       "source": "Bristol City",
       "target": "Middlesbrough",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|272346|887816|Middlesbrough",
+      "fc_id": "272346",
+      "tm_id": "887816",
+      "player": "Rokas Pukštas",
+      "source": "Hajduk Split",
+      "target": "Middlesbrough",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|208892|236953|Middlesbrough",
@@ -17530,6 +17800,15 @@
       "source": "Latium",
       "target": "Milano FC",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|260145|741238|Milano FC",
+      "fc_id": "260145",
+      "tm_id": "741238",
+      "player": "Omari Hutchinson",
+      "source": "Nottingham Forest",
+      "target": "Milano FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|246172|401922|Milano FC",
@@ -17937,6 +18216,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|241445|594992|Montpellier HSC",
+      "fc_id": "241445",
+      "tm_id": "594992",
+      "player": "Alpha Sissoko",
+      "source": "En Avant Guingamp",
+      "target": "Montpellier HSC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|252011|768439|Montpellier HSC",
       "fc_id": "252011",
       "tm_id": "768439",
@@ -18041,6 +18329,15 @@
       "tm_id": "377042",
       "player": "Michael Folorunsho",
       "source": "Napoli",
+      "target": "Monza",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|255900|730531|Monza",
+      "fc_id": "255900",
+      "tm_id": "730531",
+      "player": "Noel Törnqvist",
+      "source": "Como",
       "target": "Monza",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -18540,6 +18837,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|79860|1152155|Nashville SC",
+      "fc_id": "79860",
+      "tm_id": "1152155",
+      "player": "Owen Presthus",
+      "source": "Columbus Crew",
+      "target": "Nashville SC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|279712|1151028|Nashville SC",
       "fc_id": "279712",
       "tm_id": "1151028",
@@ -18918,6 +19224,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|273760|927104|NorthEast United",
+      "fc_id": "273760",
+      "tm_id": "927104",
+      "player": "Nikhil Barla",
+      "source": "Jamshedpur FC",
+      "target": "NorthEast United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|263058|739450|NorthEast United FC",
       "fc_id": "263058",
       "tm_id": "739450",
@@ -18981,6 +19296,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|237646|493003|Nottingham Forest",
+      "fc_id": "237646",
+      "tm_id": "493003",
+      "player": "Daniel Muñoz",
+      "source": "Crystal Palace",
+      "target": "Nottingham Forest",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|259031|610849|Nottingham Forest",
       "fc_id": "259031",
       "tm_id": "610849",
@@ -19015,6 +19339,15 @@
       "source": "RB Leipzig",
       "target": "Nottingham Forest",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|267941|965605|Notts County",
+      "fc_id": "267941",
+      "tm_id": "965605",
+      "player": "Daniel Kanu",
+      "source": "Charlton Athletic",
+      "target": "Notts County",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|238758|463755|Notts County",
@@ -19170,6 +19503,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|268920|893930|Odense Boldklub",
+      "fc_id": "268920",
+      "tm_id": "893930",
+      "player": "Mikkel Rakneberg",
+      "source": "VfL Bochum",
+      "target": "Odense Boldklub",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|272648|646189|Odense Boldklub",
       "fc_id": "272648",
       "tm_id": "646189",
@@ -19231,6 +19573,15 @@
       "source": "FC Lorient",
       "target": "OGC Nice",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|264697|746910|OGC Nice",
+      "fc_id": "264697",
+      "tm_id": "746910",
+      "player": "Mohamed Amoura",
+      "source": "VfL Wolfsburg",
+      "target": "OGC Nice",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|250724|629588|OGC Nice",
@@ -20205,6 +20556,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|263987|789094|Pau FC",
+      "fc_id": "263987",
+      "tm_id": "789094",
+      "player": "Bilal Brahimi",
+      "source": "Viborg FF",
+      "target": "Pau FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|196316|78047|Pau FC",
       "fc_id": "196316",
       "tm_id": "78047",
@@ -20385,6 +20745,15 @@
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
     },
     {
+      "key": "TRANSFER|185172|55000|Pescara",
+      "fc_id": "185172",
+      "tm_id": "55000",
+      "player": "Vincenzo Fiorillo",
+      "source": "Carrarese",
+      "target": "Pescara",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|76575|935082|Peterborough United",
       "fc_id": "76575",
       "tm_id": "935082",
@@ -20410,6 +20779,15 @@
       "source": "Sunderland",
       "target": "Peterborough United",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|268550|875929|Peterborough United",
+      "fc_id": "268550",
+      "tm_id": "875929",
+      "player": "Josh Feeney",
+      "source": "Huddersfield Town",
+      "target": "Peterborough United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|251311|565911|Peterborough United",
@@ -21483,6 +21861,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|82937|1179482|Racing de Santander",
+      "fc_id": "82937",
+      "tm_id": "1179482",
+      "player": "Iker Luque",
+      "source": "Atlético de Madrid",
+      "target": "Racing de Santander",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|246928|341278|Racing de Santander",
       "fc_id": "246928",
       "tm_id": "341278",
@@ -21582,6 +21969,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|279130|1155608|Randers FC",
+      "fc_id": "279130",
+      "tm_id": "1155608",
+      "player": "Amady Camara",
+      "source": "Sturm Graz",
+      "target": "Randers FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|70114|754634|Randers FC",
       "fc_id": "70114",
       "tm_id": "754634",
@@ -21607,6 +22003,15 @@
       "source": "VfB Stuttgart II",
       "target": "Randers FC",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|269120|894050|Randers FC",
+      "fc_id": "269120",
+      "tm_id": "894050",
+      "player": "Nikolai Hopland",
+      "source": "sc Heerenveen",
+      "target": "Randers FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|79956|1042875|Randers FC",
@@ -21814,6 +22219,15 @@
       "source": "Red Bull New York",
       "target": "RB Leipzig",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|278813|938158|RB Leipzig",
+      "fc_id": "278813",
+      "tm_id": "938158",
+      "player": "Marc Guiu",
+      "source": "Chelsea",
+      "target": "RB Leipzig",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|262042|842341|RB Leipzig",
@@ -22059,6 +22473,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|257083|585958|RC Lens",
+      "fc_id": "257083",
+      "tm_id": "585958",
+      "player": "Junior Kadile",
+      "source": "Servette FC",
+      "target": "RC Lens",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|255838|407745|RC Lens",
       "fc_id": "255838",
       "tm_id": "407745",
@@ -22120,6 +22543,15 @@
       "source": "IFK Göteborg",
       "target": "RC Strasbourg",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|277689|807386|RC Strasbourg",
+      "fc_id": "277689",
+      "tm_id": "807386",
+      "player": "Conrad Harder",
+      "source": "RB Leipzig",
+      "target": "RC Strasbourg",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|74102|910541|RC Strasbourg",
@@ -22365,6 +22797,15 @@
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
     },
     {
+      "key": "TRANSFER|260083|627290|RCD Mallorca",
+      "fc_id": "260083",
+      "tm_id": "627290",
+      "player": "John Donald",
+      "source": "Elche CF",
+      "target": "RCD Mallorca",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|79751|692210|RCD Mallorca",
       "fc_id": "79751",
       "tm_id": "692210",
@@ -22399,6 +22840,15 @@
       "source": "Portsmouth",
       "target": "Reading",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|205255|250840|Reading",
+      "fc_id": "205255",
+      "tm_id": "250840",
+      "player": "Jamie Reid",
+      "source": "Stevenage",
+      "target": "Reading",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|237213|425026|Reading",
@@ -22588,6 +23038,15 @@
       "source": "-",
       "target": "Real Oviedo",
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
+    },
+    {
+      "key": "TRANSFER|75239|935281|Real Oviedo",
+      "fc_id": "75239",
+      "tm_id": "935281",
+      "player": "David Jimenez",
+      "source": "Real Madrid",
+      "target": "Real Oviedo",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|266158|913539|Real Oviedo",
@@ -22896,6 +23355,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|197926|110928|Reggiana",
+      "fc_id": "197926",
+      "tm_id": "110928",
+      "player": "Lorenzo Crisetig",
+      "source": "Padova",
+      "target": "Reggiana",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|235163|195335|Reggiana",
       "fc_id": "235163",
       "tm_id": "195335",
@@ -23031,6 +23499,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|208461|133179|Roma",
+      "fc_id": "208461",
+      "tm_id": "133179",
+      "player": "Marten de Roon",
+      "source": "Bergamo Calcio",
+      "target": "Roma",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|80075|803005|Roma",
       "fc_id": "80075",
       "tm_id": "803005",
@@ -23083,6 +23560,15 @@
       "source": "RC Celta de Vigo",
       "target": "Rosario Central",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|259478|528652|Rosenborg BK",
+      "fc_id": "259478",
+      "tm_id": "528652",
+      "player": "Mathias Kjølø",
+      "source": "FC Twente",
+      "target": "Rosenborg BK",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|80755|904723|Rot-Weiß Essen",
@@ -23416,6 +23902,15 @@
       "source": "Avellino",
       "target": "Sampdoria",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|210625|183321|Sampdoria",
+      "fc_id": "210625",
+      "tm_id": "183321",
+      "player": "Kevin Mbabu",
+      "source": "FC Midtjylland",
+      "target": "Sampdoria",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|198219|133964|Sampdoria",
@@ -23787,13 +24282,13 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|265762|650993|Sassuolo",
-      "fc_id": "265762",
-      "tm_id": "650993",
-      "player": "Filippo Missori",
-      "source": "Avellino",
+      "key": "TRANSFER|251464|490423|Sassuolo",
+      "fc_id": "251464",
+      "tm_id": "490423",
+      "player": "Ignace Van der Brempt",
+      "source": "Como",
       "target": "Sassuolo",
-      "reason": "-"
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|257104|647280|Sassuolo",
@@ -24010,6 +24505,15 @@
       "source": "Angers SCO",
       "target": "sc Heerenveen",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|259163|562702|sc Heerenveen",
+      "fc_id": "259163",
+      "tm_id": "562702",
+      "player": "Mees Hilgers",
+      "source": "FC Twente",
+      "target": "sc Heerenveen",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|277976|345881|SC Oțelul Galați",
@@ -24273,6 +24777,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|260942|787232|Servette FC",
+      "fc_id": "260942",
+      "tm_id": "787232",
+      "player": "David Datro Fofana",
+      "source": "Chelsea",
+      "target": "Servette FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|226656|229292|Servette FC",
       "fc_id": "226656",
       "tm_id": "229292",
@@ -24498,6 +25011,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|228332|341501|Sheffield United",
+      "fc_id": "228332",
+      "tm_id": "341501",
+      "player": "Hamza Choudhury",
+      "source": "Leicester City",
+      "target": "Sheffield United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|258390|226073|Sheffield United",
       "fc_id": "258390",
       "tm_id": "226073",
@@ -24512,15 +25034,6 @@
       "tm_id": "610706",
       "player": "Jamal Baptiste",
       "source": "Rotherham United",
-      "target": "Sheffield United",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|277804|874043|Sheffield United",
-      "fc_id": "277804",
-      "tm_id": "874043",
-      "player": "Louie Marsh",
-      "source": "Falkirk",
       "target": "Sheffield United",
       "reason": "-"
     },
@@ -24849,6 +25362,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|271808|743414|Shrewsbury Town",
+      "fc_id": "271808",
+      "tm_id": "743414",
+      "player": "Lino Sousa",
+      "source": "Rotherham United",
+      "target": "Shrewsbury Town",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|70162|936842|Shrewsbury Town",
       "fc_id": "70162",
       "tm_id": "936842",
@@ -25137,6 +25659,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|70069|682568|Sparta Rotterdam",
+      "fc_id": "70069",
+      "tm_id": "682568",
+      "player": "Cedric Hatenboer",
+      "source": "Anderlecht",
+      "target": "Sparta Rotterdam",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|259403|760508|Sparta Rotterdam",
       "fc_id": "259403",
       "tm_id": "760508",
@@ -25144,6 +25675,15 @@
       "source": "FC Volendam",
       "target": "Sparta Rotterdam",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|215546|231650|Sparta Rotterdam",
+      "fc_id": "215546",
+      "tm_id": "231650",
+      "player": "Michael Brouwer",
+      "source": "FC Utrecht",
+      "target": "Sparta Rotterdam",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|75894|891835|Sparta Rotterdam",
@@ -26082,6 +26622,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|75767|985544|Stevenage",
+      "fc_id": "75767",
+      "tm_id": "985544",
+      "player": "Ben Broggio",
+      "source": "Falkirk",
+      "target": "Stevenage",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|186562|63223|Stevenage",
       "fc_id": "186562",
       "tm_id": "63223",
@@ -26268,15 +26817,6 @@
       "player": "Jonathan Moalem",
       "source": "FC København",
       "target": "Strømsgodset Toppfotball",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|279130|1155608|Sturm Graz",
-      "fc_id": "279130",
-      "tm_id": "1155608",
-      "player": "Amady Camara",
-      "source": "FC Nantes",
-      "target": "Sturm Graz",
       "reason": "-"
     },
     {
@@ -26793,6 +27333,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|217841|126424|SV Wehen Wiesbaden",
+      "fc_id": "217841",
+      "tm_id": "126424",
+      "player": "Michael Schultz",
+      "source": "Rot-Weiß Essen",
+      "target": "SV Wehen Wiesbaden",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|229267|216399|SV Wehen Wiesbaden",
       "fc_id": "229267",
       "tm_id": "216399",
@@ -26800,6 +27349,15 @@
       "source": "1. FC Magdeburg",
       "target": "SV Wehen Wiesbaden",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|69987|716756|SV Wehen Wiesbaden",
+      "fc_id": "69987",
+      "tm_id": "716756",
+      "player": "Raul Paula",
+      "source": "NAC Breda",
+      "target": "SV Wehen Wiesbaden",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|241689|431561|SV Wehen Wiesbaden",
@@ -26917,6 +27475,15 @@
       "source": "Motherwell",
       "target": "Swansea City",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|278986|969372|Swansea City",
+      "fc_id": "278986",
+      "tm_id": "969372",
+      "player": "Tom Iorpenda",
+      "source": "Huddersfield Town",
+      "target": "Swansea City",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|274630|347473|Swindon Town",
@@ -27198,6 +27765,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|276314|864306|Torino",
+      "fc_id": "276314",
+      "tm_id": "864306",
+      "player": "Rafik Belghali",
+      "source": "Hellas Verona",
+      "target": "Torino",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|70479|1059298|Torino FC",
       "fc_id": "70479",
       "tm_id": "1059298",
@@ -27288,15 +27864,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|72159|1011147|Tottenham Hotspur",
-      "fc_id": "72159",
-      "tm_id": "1011147",
-      "player": "Mikey Moore",
-      "source": "Rangers",
-      "target": "Tottenham Hotspur",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|256675|445939|Tottenham Hotspur",
       "fc_id": "256675",
       "tm_id": "445939",
@@ -27313,6 +27880,15 @@
       "source": "Newcastle United",
       "target": "Tottenham Hotspur",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|257920|464598|Toulouse FC",
+      "fc_id": "257920",
+      "tm_id": "464598",
+      "player": "Casper Tengstedt",
+      "source": "Feyenoord",
+      "target": "Toulouse FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|73286|897423|Toulouse FC",
@@ -27648,15 +28224,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|75654|987770|TSG 1899 Hoffenheim",
-      "fc_id": "75654",
-      "tm_id": "987770",
-      "player": "Alessandro Vogt",
-      "source": "FC St. Gallen",
-      "target": "TSG 1899 Hoffenheim",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|74871|875332|TSG 1899 Hoffenheim",
       "fc_id": "74871",
       "tm_id": "875332",
@@ -27772,6 +28339,15 @@
       "source": "SSV Ulm 1846",
       "target": "TSV 1860 München",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|263353|675870|TSV 1860 München",
+      "fc_id": "263353",
+      "tm_id": "675870",
+      "player": "Eric Uhlmann",
+      "source": "Erzgebirge Aue",
+      "target": "TSV 1860 München",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|262593|528555|TSV 1860 München",
@@ -28584,6 +29160,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|260140|567736|Vélez Sarsfield",
+      "fc_id": "260140",
+      "tm_id": "567736",
+      "player": "Ronaldo Martínez",
+      "source": "Talleres de Córdoba",
+      "target": "Vélez Sarsfield",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|277565|903706|Venezia",
       "fc_id": "277565",
       "tm_id": "903706",
@@ -28600,6 +29185,15 @@
       "source": "Hellas Verona",
       "target": "Venezia",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|200752|121985|Venezia",
+      "fc_id": "200752",
+      "tm_id": "121985",
+      "player": "Juan Jesus",
+      "source": "Napoli",
+      "target": "Venezia",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|70963|1148082|Venezia",
@@ -28654,6 +29248,15 @@
       "source": "Lecce",
       "target": "Venezia",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|239679|250153|Venezia",
+      "fc_id": "239679",
+      "tm_id": "250153",
+      "player": "Pasquale Mazzocchi",
+      "source": "Napoli",
+      "target": "Venezia",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|264657|913660|Venezia",
@@ -28908,6 +29511,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|219814|268113|VfL Bochum",
+      "fc_id": "219814",
+      "tm_id": "268113",
+      "player": "Sean Klaiber",
+      "source": "Brøndby IF",
+      "target": "VfL Bochum",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|222024|169271|VfL Bochum",
       "fc_id": "222024",
       "tm_id": "169271",
@@ -29088,6 +29700,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|70948|797945|Viborg FF",
+      "fc_id": "70948",
+      "tm_id": "797945",
+      "player": "Ruben Alte",
+      "source": "Viking FK",
+      "target": "Viborg FF",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|260383|571310|Viborg FF",
       "fc_id": "260383",
       "tm_id": "571310",
@@ -29111,15 +29732,6 @@
       "tm_id": "399165",
       "player": "Nick D'Agostino",
       "source": "Brisbane Roar",
-      "target": "Viking FK",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|70948|797945|Viking FK",
-      "fc_id": "70948",
-      "tm_id": "797945",
-      "player": "Ruben Alte",
-      "source": "Sandefjord Fotball",
       "target": "Viking FK",
       "reason": "-"
     },
@@ -29520,6 +30132,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|265390|559324|Werder Bremen",
+      "fc_id": "265390",
+      "tm_id": "559324",
+      "player": "Youri Regeer",
+      "source": "Ajax",
+      "target": "Werder Bremen",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|79947|1360186|West Bromwich Albion",
       "fc_id": "79947",
       "tm_id": "1360186",
@@ -29626,6 +30247,15 @@
       "source": "Fenerbahçe",
       "target": "West Ham United",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|271265|980787|West Ham United",
+      "fc_id": "271265",
+      "tm_id": "980787",
+      "player": "Edvin Austbø",
+      "source": "Viking FK",
+      "target": "West Ham United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|247249|369962|West Ham United",
@@ -30339,6 +30969,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|271666|735140|Wycombe Wanderers",
+      "fc_id": "271666",
+      "tm_id": "735140",
+      "player": "Jayden Wareham",
+      "source": "Exeter City",
+      "target": "Wycombe Wanderers",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|278105|790995|Wycombe Wanderers",
       "fc_id": "278105",
       "tm_id": "790995",
@@ -31034,6 +31673,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1083709|Accrington Stanley|daily",
+      "fc_id": "-",
+      "tm_id": "1083709",
+      "player": "Joel Catesby",
+      "source": "-",
+      "target": "Accrington Stanley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|425712|Accrington Stanley|52",
       "fc_id": "-",
       "tm_id": "425712",
@@ -31250,6 +31898,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|425808|AIK|daily",
+      "fc_id": "-",
+      "tm_id": "425808",
+      "player": "Sebastian Hausner",
+      "source": "-",
+      "target": "AIK",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|975139|AIK|67",
       "fc_id": "-",
       "tm_id": "975139",
@@ -31275,6 +31932,15 @@
       "source": "-",
       "target": "AJ Auxerre",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1291922|AJ Auxerre|daily",
+      "fc_id": "-",
+      "tm_id": "1291922",
+      "player": "Lamfia Dioubaté",
+      "source": "-",
+      "target": "AJ Auxerre",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1119338|AJ Auxerre|74",
@@ -33761,6 +34427,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|850381|Banfield|daily",
+      "fc_id": "-",
+      "tm_id": "850381",
+      "player": "Manuel Arteaga",
+      "source": "-",
+      "target": "Banfield",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|746958|Banfield|327",
       "fc_id": "-",
       "tm_id": "746958",
@@ -33869,15 +34544,6 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|424275|Bari|342",
-      "fc_id": "-",
-      "tm_id": "424275",
-      "player": "Giuseppe Sibilli",
-      "source": "-",
-      "target": "Bari",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
       "key": "CREATE|-|183969|Bari|346",
       "fc_id": "-",
       "tm_id": "183969",
@@ -33930,6 +34596,15 @@
       "source": "-",
       "target": "Bari",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1132043|Bari|daily",
+      "fc_id": "-",
+      "tm_id": "1132043",
+      "player": "Vincenzo Prisco",
+      "source": "-",
+      "target": "Bari",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1434712|Barnet|350",
@@ -34715,6 +35390,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|678035|Bologna|daily",
+      "fc_id": "-",
+      "tm_id": "678035",
+      "player": "Jay Enem",
+      "source": "-",
+      "target": "Bologna",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1018026|Bologna|433",
       "fc_id": "-",
       "tm_id": "1018026",
@@ -34902,6 +35586,15 @@
       "source": "-",
       "target": "Bradford City",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1420635|Brighton & Hove Albion|daily",
+      "fc_id": "-",
+      "tm_id": "1420635",
+      "player": "Matías Orozco",
+      "source": "-",
+      "target": "Brighton & Hove Albion",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1378246|Brisbane Roar|453",
@@ -35298,6 +35991,15 @@
       "source": "-",
       "target": "BSC Young Boys",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1119453|BSC Young Boys|daily",
+      "fc_id": "-",
+      "tm_id": "1119453",
+      "player": "Herba Guirassy",
+      "source": "FC Nantes",
+      "target": "BSC Young Boys",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|711382|Burgos CF|daily",
@@ -36830,6 +37532,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|825379|Chennaiyin FC|daily",
+      "fc_id": "-",
+      "tm_id": "825379",
+      "player": "Ramon Tanque",
+      "source": "-",
+      "target": "Chennaiyin FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|758281|Chennaiyin FC|655",
       "fc_id": "-",
       "tm_id": "758281",
@@ -37991,6 +38702,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|936565|Dender|daily",
+      "fc_id": "-",
+      "tm_id": "936565",
+      "player": "Mattéo Nkurunziza",
+      "source": "-",
+      "target": "Dender",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1447447|Dender|778",
       "fc_id": "-",
       "tm_id": "1447447",
@@ -37998,6 +38718,15 @@
       "source": "-",
       "target": "Dender",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1482874|Dender|daily",
+      "fc_id": "-",
+      "tm_id": "1482874",
+      "player": "Oumar Balde",
+      "source": "-",
+      "target": "Dender",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1020649|Dender|777",
@@ -38513,6 +39242,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|741239|Djurgårdens IF|daily",
+      "fc_id": "-",
+      "tm_id": "741239",
+      "player": "Abdul Abdulmalik",
+      "source": "-",
+      "target": "Djurgårdens IF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1407851|Djurgårdens IF|838",
       "fc_id": "-",
       "tm_id": "1407851",
@@ -38529,6 +39267,15 @@
       "source": "-",
       "target": "Djurgårdens IF",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1376024|Djurgårdens IF|daily",
+      "fc_id": "-",
+      "tm_id": "1376024",
+      "player": "Charlie Rosenqvist",
+      "source": "-",
+      "target": "Djurgårdens IF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|951296|Djurgårdens IF|835",
@@ -39438,6 +40185,15 @@
       "source": "-",
       "target": "Estoril",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1026524|Estoril|daily",
+      "fc_id": "-",
+      "tm_id": "1026524",
+      "player": "Sam Amissah",
+      "source": "-",
+      "target": "Estoril",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1020686|Estoril|935",
@@ -40817,6 +41573,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|722375|FC Lorient|daily",
+      "fc_id": "-",
+      "tm_id": "722375",
+      "player": "Srdjan Kuzmic",
+      "source": "Viborg FF",
+      "target": "FC Lorient",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1378087|FC Lugano|1090",
       "fc_id": "-",
       "tm_id": "1378087",
@@ -41244,15 +42009,6 @@
       "fc_id": "-",
       "tm_id": "1289003",
       "player": "Damien Möschinger",
-      "source": "-",
-      "target": "FC Sion",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
-      "key": "CREATE|-|741539|FC Sion|1133",
-      "fc_id": "-",
-      "tm_id": "741539",
-      "player": "Dinis Rodrigues",
       "source": "-",
       "target": "FC Sion",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
@@ -42833,6 +43589,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1431675|Gillingham|daily",
+      "fc_id": "-",
+      "tm_id": "1431675",
+      "player": "Jack Daley",
+      "source": "-",
+      "target": "Gillingham",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1328146|Gillingham|daily",
       "fc_id": "-",
       "tm_id": "1328146",
@@ -42981,15 +43746,6 @@
       "fc_id": "-",
       "tm_id": "923915",
       "player": "Antal Yaakobishvili",
-      "source": "-",
-      "target": "Girona FC",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
-      "key": "CREATE|-|646698|Girona FC|1319",
-      "fc_id": "-",
-      "tm_id": "646698",
-      "player": "Gabriel Misehouy",
       "source": "-",
       "target": "Girona FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
@@ -44876,6 +45632,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1299767|Huracán|daily",
+      "fc_id": "-",
+      "tm_id": "1299767",
+      "player": "Tomás Uribe",
+      "source": "-",
+      "target": "Huracán",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1176778|IF Brommapojkarna|1521",
       "fc_id": "-",
       "tm_id": "1176778",
@@ -44885,6 +45650,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1072025|IF Brommapojkarna|daily",
+      "fc_id": "-",
+      "tm_id": "1072025",
+      "player": "Luka Petrovic",
+      "source": "-",
+      "target": "IF Brommapojkarna",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|946783|IF Brommapojkarna|1519",
       "fc_id": "-",
       "tm_id": "946783",
@@ -44892,6 +45666,15 @@
       "source": "-",
       "target": "IF Brommapojkarna",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|396294|IF Brommapojkarna|daily",
+      "fc_id": "-",
+      "tm_id": "396294",
+      "player": "Pavle Vagic",
+      "source": "-",
+      "target": "IF Brommapojkarna",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|959047|IF Brommapojkarna|1520",
@@ -45243,6 +46026,15 @@
       "source": "-",
       "target": "IK Sirius",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|721666|IK Sirius|daily",
+      "fc_id": "-",
+      "tm_id": "721666",
+      "player": "Zalán Vancsa",
+      "source": "-",
+      "target": "IK Sirius",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1123368|Independiente|1560",
@@ -45767,15 +46559,6 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1005146|Jamshedpur FC|1623",
-      "fc_id": "-",
-      "tm_id": "1005146",
-      "player": "CK Aman",
-      "source": "-",
-      "target": "Jamshedpur FC",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
       "key": "CREATE|-|1388615|Jamshedpur FC|1624",
       "fc_id": "-",
       "tm_id": "1388615",
@@ -46143,6 +46926,15 @@
       "source": "-",
       "target": "Juve Stabia",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|424275|Juve Stabia|daily",
+      "fc_id": "-",
+      "tm_id": "424275",
+      "player": "Giuseppe Sibilli",
+      "source": "Bari",
+      "target": "Juve Stabia",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|815787|Juve Stabia|1663",
@@ -47124,6 +47916,15 @@
       "source": "-",
       "target": "Lecce",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1105124|Lecce|daily",
+      "fc_id": "-",
+      "tm_id": "1105124",
+      "player": "Elijah Scott",
+      "source": "-",
+      "target": "Lecce",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1200320|Lecce|1767",
@@ -48278,6 +49079,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|537768|Metaloglobus București|daily",
+      "fc_id": "-",
+      "tm_id": "537768",
+      "player": "Jonathan Rodríguez",
+      "source": "-",
+      "target": "Metaloglobus București",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|500275|Metaloglobus București|1896",
       "fc_id": "-",
       "tm_id": "500275",
@@ -48494,6 +49304,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1072289|Mjällby AIF|daily",
+      "fc_id": "-",
+      "tm_id": "1072289",
+      "player": "Sebastian Hansen",
+      "source": "-",
+      "target": "Mjällby AIF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1140556|Mjällby AIF|1911",
       "fc_id": "-",
       "tm_id": "1140556",
@@ -48683,6 +49502,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|161484|Mohun Bagan Super Giant|daily",
+      "fc_id": "-",
+      "tm_id": "161484",
+      "player": "Lee Erwin",
+      "source": "-",
+      "target": "Mohun Bagan Super Giant",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|645131|Mohun Bagan Super Giant|1933",
       "fc_id": "-",
       "tm_id": "645131",
@@ -48852,6 +49680,15 @@
       "source": "-",
       "target": "Monza",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1046867|Monza|daily",
+      "fc_id": "-",
+      "tm_id": "1046867",
+      "player": "Jan Ziolkowski",
+      "source": "Roma",
+      "target": "Monza",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|724069|Monza|1951",
@@ -49250,6 +50087,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|646698|NAC Breda|daily",
+      "fc_id": "-",
+      "tm_id": "646698",
+      "player": "Gabriel Misehouy",
+      "source": "Girona FC",
+      "target": "NAC Breda",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|83680|929347|NAC Breda|3111",
       "fc_id": "83680",
       "tm_id": "929347",
@@ -49385,6 +50231,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|741539|Napoli|daily",
+      "fc_id": "-",
+      "tm_id": "741539",
+      "player": "Dinis Rodrigues",
+      "source": "FC Sion",
+      "target": "Napoli",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1504946|Nashville SC|2004",
       "fc_id": "-",
       "tm_id": "1504946",
@@ -49437,6 +50292,15 @@
       "source": "-",
       "target": "New England Revolution",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1383098|New England Revolution|daily",
+      "fc_id": "-",
+      "tm_id": "1383098",
+      "player": "Judah Siqueira",
+      "source": "-",
+      "target": "New England Revolution",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|576847|New England Revolution|2009",
@@ -49671,6 +50535,15 @@
       "source": "-",
       "target": "NorthEast United",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1005146|NorthEast United|daily",
+      "fc_id": "-",
+      "tm_id": "1005146",
+      "player": "CK Aman",
+      "source": "Jamshedpur FC",
+      "target": "NorthEast United",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|922420|NorthEast United|2034",
@@ -50697,6 +51570,15 @@
       "source": "-",
       "target": "Pescara",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|254708|Pescara|daily",
+      "fc_id": "-",
+      "tm_id": "254708",
+      "player": "Giacomo Parigi",
+      "source": "-",
+      "target": "Pescara",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|496270|Pescara|2150",
@@ -51914,6 +52796,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|251878|Racing de Santander|daily",
+      "fc_id": "-",
+      "tm_id": "251878",
+      "player": "Aarón Martín",
+      "source": "Genoa",
+      "target": "Racing de Santander",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|66106|Racing de Santander|2269",
       "fc_id": "-",
       "tm_id": "66106",
@@ -52472,6 +53363,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1138272|Red Star FC (FRANCE)|daily",
+      "fc_id": "-",
+      "tm_id": "1138272",
+      "player": "Ilija Despotovic",
+      "source": "-",
+      "target": "Red Star FC (FRANCE)",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|722739|Red Star FC (FRANCE)|2327",
       "fc_id": "-",
       "tm_id": "722739",
@@ -52877,6 +53777,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|964690|Rotherham United|daily",
+      "fc_id": "-",
+      "tm_id": "964690",
+      "player": "Jayce Fitzgerald",
+      "source": "-",
+      "target": "Rotherham United",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1072898|Rotherham United|2372",
       "fc_id": "-",
       "tm_id": "1072898",
@@ -52992,6 +53901,15 @@
       "source": "-",
       "target": "Sampdoria",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|242537|Sampdoria|daily",
+      "fc_id": "-",
+      "tm_id": "242537",
+      "player": "Samuele Massolo",
+      "source": "-",
+      "target": "Sampdoria",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|75884|1173278|Samsunspor|3121",
@@ -53858,6 +54776,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1038182|SD Eibar|daily",
+      "fc_id": "-",
+      "tm_id": "1038182",
+      "player": "Elijah Gift",
+      "source": "-",
+      "target": "SD Eibar",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|634108|SD Eibar|2469",
       "fc_id": "-",
       "tm_id": "634108",
@@ -54522,6 +55449,15 @@
       "source": "-",
       "target": "Shrewsbury Town",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1165131|Shrewsbury Town|daily",
+      "fc_id": "-",
+      "tm_id": "1165131",
+      "player": "Kian McMahon-Brown",
+      "source": "-",
+      "target": "Shrewsbury Town",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1004709|Shrewsbury Town|2535",
@@ -57863,6 +58799,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1123729|Vålerenga Fotball|daily",
+      "fc_id": "-",
+      "tm_id": "1123729",
+      "player": "Lorents Apold-Aasen",
+      "source": "-",
+      "target": "Vålerenga Fotball",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1514701|Vålerenga Fotball|2897",
       "fc_id": "-",
       "tm_id": "1514701",
@@ -58149,6 +59094,15 @@
       "source": "-",
       "target": "VfL Bochum",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|581674|VfL Bochum|daily",
+      "fc_id": "-",
+      "tm_id": "581674",
+      "player": "Charlie Patiño",
+      "source": "RC Deportivo",
+      "target": "VfL Bochum",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|644244|VfL Bochum|2929",
@@ -58752,6 +59706,15 @@
       "source": "-",
       "target": "Westerlo",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1078642|Westerlo|daily",
+      "fc_id": "-",
+      "tm_id": "1078642",
+      "player": "Dino Delic",
+      "source": "-",
+      "target": "Westerlo",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1047424|Westerlo|2990",
@@ -83346,16 +84309,16 @@
       "reason": "FC26_PLAYER_ID_STILL_HAS_NO_RESOLVED_NAME"
     }
   ],
-  "last_checked_at": "2026-08-30T19:19:20+00:00",
+  "last_checked_at": "2026-09-01T08:52:27+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 506,
-    "added_transfers": 178,
-    "updated_transfers": 49,
-    "returned_to_base": 8,
-    "review_items": 104,
+    "changed_players": 194,
+    "added_transfers": 72,
+    "updated_transfers": 12,
+    "returned_to_base": 1,
+    "review_items": 40,
     "teams_checked": 637,
-    "teams_succeeded": 637,
-    "teams_failed": 16
+    "teams_succeeded": 632,
+    "teams_failed": 21
   }
 }
