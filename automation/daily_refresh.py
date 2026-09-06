@@ -216,6 +216,13 @@ def remove_tm_id(rows: list[dict[str, Any]], tm_id: str) -> list[dict[str, Any]]
     return [row for row in rows if as_numeric_text(row.get("tm_id")) != tm_id]
 
 
+def is_actionable_unresolved(row: dict[str, Any]) -> bool:
+    """Keep only review rows that contain enough information to investigate."""
+    if as_numeric_text(row.get("tm_id")):
+        return True
+    return any(clean(row.get(field)) not in ("", "-") for field in ("player", "source", "target"))
+
+
 def reconcile(
     site: dict[str, Any],
     identities: dict[str, Any],
@@ -325,13 +332,16 @@ def reconcile(
 
     transfers.sort(key=lambda row: (norm(row.get("target")), norm(row.get("player")), clean(row.get("fc_id"))))
     creates.sort(key=lambda row: (norm(row.get("target")), norm(row.get("player")), clean(row.get("tm_id"))))
+    unresolved_before = list(site.get("unresolved", []))
+    unresolved = [row for row in unresolved_before if is_actionable_unresolved(row)]
     site["transfers"] = transfers
     site["creates"] = creates
+    site["unresolved"] = unresolved
     summary = site.setdefault("summary", {})
     summary["transfers"] = len(transfers)
     summary["creates"] = len(creates)
     summary["exists"] = len(site.get("exists", []))
-    summary["unresolved"] = len(site.get("unresolved", []))
+    summary["unresolved"] = len(unresolved)
 
     return {
         "changed_players": len(changed_ids),
@@ -339,6 +349,7 @@ def reconcile(
         "updated_transfers": updated_transfers,
         "returned_to_base": returned_to_base,
         "review_items": review_items,
+        "pruned_unresolved": len(unresolved_before) - len(unresolved),
     }
 
 
