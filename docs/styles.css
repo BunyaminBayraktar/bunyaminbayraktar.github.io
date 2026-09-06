@@ -77,6 +77,7 @@ nav{display:grid;gap:6px}
   font-weight:720;
   transition:background .18s ease,color .18s ease,border-color .18s ease;
 }
+.nav-link{text-decoration:none}
 .nav-btn:hover{background:rgba(255,255,255,.06);color:#fff}
 .nav-btn.active{background:#173e68;border-color:#2b5786;color:#fff;box-shadow:inset 3px 0 #38bdf8}
 .nav-icon{display:grid;place-items:center;width:22px;color:#79b8ff;font-size:15px}
@@ -288,6 +289,16 @@ tbody tr:hover{background:#f8fbfe}
 }
 .site-footer a{color:#5d7188;text-decoration:none;font-weight:750}
 .site-footer a:hover{text-decoration:underline}
+.site-footer nav{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px 16px}
+
+.home-guide{margin-top:36px;padding:clamp(22px,4vw,38px);background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 5px 16px rgba(25,49,78,.035)}
+.home-guide h2{margin:8px 0 12px;font-size:26px;letter-spacing:-.03em}
+.home-guide>p{max-width:900px;color:#526479;font-size:14px;line-height:1.75}
+.guide-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;margin-top:22px}
+.guide-links a{display:block;padding:17px;border:1px solid #dbe5ef;border-radius:13px;background:#f9fbfd;text-decoration:none;transition:border-color .18s ease,transform .18s ease}
+.guide-links a:hover{border-color:#8db5e5;transform:translateY(-1px)}
+.guide-links strong{display:block;color:var(--text);font-size:14px}
+.guide-links span{display:block;margin-top:6px;color:var(--muted);font-size:12px;line-height:1.5}
 
 .legal-page{max-width:900px;margin:0 auto;padding:50px 24px 80px}
 .legal-header{display:flex;align-items:center;gap:14px;margin-bottom:34px}
@@ -328,7 +339,7 @@ tbody tr:hover{background:#f8fbfe}
   .team-tools,.filters{grid-template-columns:1fr}
   .team-grid{grid-template-columns:1fr}
   .team-heading{display:block}.team-summary{margin-top:7px}
-  .site-footer{display:grid;text-align:center;justify-content:center}
+  .site-footer{display:grid;text-align:center;justify-content:center}.site-footer nav{justify-content:center}.guide-links{grid-template-columns:1fr}
   .toast{left:16px;right:16px;bottom:16px;max-width:none;text-align:center}
   .pc-page-header{display:flex}.pc-hero-card{padding:24px 19px;border-radius:19px}.pc-hero-card h2{font-size:32px}.pc-hero-copy>p{font-size:13px}.pc-cta-row{display:grid}.download-button{width:100%}.pc-text-link{text-align:center}.result-stats{grid-template-columns:1fr 1fr}.result-stats div:last-child{grid-column:1/-1}.feed-note{align-items:flex-start;flex-direction:column}.pc-warning{padding:17px}
 }

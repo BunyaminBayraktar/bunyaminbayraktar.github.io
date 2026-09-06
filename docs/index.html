@@ -4,11 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#081a31">
-  <meta name="description" content="FC26 kadrolarını PS5'te adım adım veya PC'de otomatik güncellemek için ücretsiz transfer rehberi.">
+  <meta name="description" content="FC26 kadrolarını PS5 ve PC'de güncellemek için adım adım Türkçe rehberler, transfer kontrol aracı ve sorun giderme merkezi.">
   <meta name="google-adsense-account" content="ca-pub-9303540424921408">
-  <title>FC26 Squad Sync</title>
+  <title>FC26 Kadro Güncelleme Rehberi | FC26 Squad Sync</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20260829">
+  <link rel="canonical" href="https://bunyaminbayraktar.github.io/">
+  <link rel="stylesheet" href="./styles.css?v=20260906">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9303540424921408" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -28,6 +29,8 @@
       <button class="nav-btn" data-view="creates"><span class="nav-icon" aria-hidden="true">＋</span><span>Create Oyuncular</span></button>
       <button class="nav-btn" data-view="exists"><span class="nav-icon" aria-hidden="true">✓</span><span>Mevcut Oyuncular</span></button>
       <button class="nav-btn" data-view="unresolved"><span class="nav-icon" aria-hidden="true">?</span><span>İnceleme</span></button>
+      <a class="nav-btn nav-link" href="./rehberler.html"><span class="nav-icon" aria-hidden="true">▤</span><span>Rehberler</span></a>
+      <a class="nav-btn nav-link" href="./sss.html"><span class="nav-icon" aria-hidden="true">i</span><span>Sık Sorulanlar</span></a>
     </nav>
 
     <div class="sidebar-stats">
@@ -92,6 +95,19 @@
         </div>
         <div id="teamProgressGrid" class="team-grid"></div>
       </section>
+
+      <section class="home-guide" aria-labelledby="homeGuideTitle">
+        <div class="eyebrow">FC26 KADRO GÜNCELLEME MERKEZİ</div>
+        <h2 id="homeGuideTitle">Bu araç ne yapar?</h2>
+        <p>FC26 Squad Sync, çevrimdışı oyun modlarında kadroları güncel tutmak isteyen oyuncular için hazırlanmış bağımsız bir Türkçe rehber ve takip aracıdır. Transfer listesi kaynak ve hedef takımı birlikte gösterir; “Yapıldı”, “Atla” ve geri alma seçenekleriyle hangi işlemlerin tamamlandığını tarayıcınızda takip etmenizi sağlar.</p>
+        <p>PS5 sürümünde transferler oyun menülerinden kullanıcı tarafından uygulanır. PC bölümünde ise yalnızca yasal olarak sahip olduğunuz oyun kurulumuna ve kendi kadro dosyanıza yönelik yardımcı araçlar anlatılır. İşleme başlamadan önce orijinal dosyanızı yedeklemeniz ve çıktıyı önce yeni bir çevrimdışı kariyerde denemeniz önerilir.</p>
+        <div class="guide-links">
+          <a href="./ps5-kadro-guncelleme.html"><strong>PS5 kadro güncelleme rehberi</strong><span>Menü yolu, toplu çalışma düzeni ve kontrol listesi</span></a>
+          <a href="./pc-kadro-guncelleme.html"><strong>PC kadro güncelleme rehberi</strong><span>Yedekleme, dosya seçimi, doğrulama ve geri dönüş</span></a>
+          <a href="./sorun-giderme.html"><strong>Sorun giderme merkezi</strong><span>Eksik oyuncu, yanlış takım ve dosya sorunları</span></a>
+          <a href="./veri-metodolojisi.html"><strong>Veriler nasıl hazırlanıyor?</strong><span>Kaynak kontrolü, eşleştirme ve güvenlik kuralları</span></a>
+        </div>
+      </section>
     </section>
 
     <section id="pcView" class="view">
@@ -99,9 +115,9 @@
         <div>
           <div class="eyebrow">WINDOWS UYGULAMASI</div>
           <h1>PC Otomatik Mod</h1>
-          <p>Resmi PC kadrosunu indir, güncel transferleri tek işlemle uygula ve doğrulanmış Squads dosyanı oluştur.</p>
+          <p>Kendi Squads dosyanı yedekle, güncel transferleri kontrollü biçimde uygula ve doğrulanmış bir çıktı oluştur.</p>
         </div>
-        <span class="version-badge">v0.2.0</span>
+        <span class="version-badge">v0.3.0</span>
       </header>
 
       <section class="pc-hero-card" aria-labelledby="pcDownloadTitle">
@@ -112,15 +128,15 @@
             <span>Kurulum gerektirmez</span>
           </div>
           <h2 id="pcDownloadTitle"><strong id="pcTransferCount">3.223</strong> transferi otomatik uygula</h2>
-          <p>FC26 satın almadan resmi PC kadro dosyasını EA sunucusundan indirebilir, sitedeki en güncel transfer listesini güvenle işleyebilirsin.</p>
+          <p>Yasal olarak sahip olduğun FC26 PC kurulumundaki kendi Squads dosyanı yedekleyebilir ve sitedeki güncel transfer listesini çevrimdışı kullanım için işleyebilirsin.</p>
           <div class="pc-cta-row">
-            <a class="download-button" href="./downloads/fc26-squad-sync-pc-updater.zip?v=0.2.0" download="fc26-squad-sync-pc-updater-v0.2.0.zip">
+            <a class="download-button" href="./downloads/fc26-squad-sync-pc-updater.zip?v=0.3.0" download="fc26-squad-sync-pc-updater-v0.3.0.zip">
               <span aria-hidden="true">↓</span>
               Windows uygulamasını indir
             </a>
             <a class="pc-text-link" href="#pcSteps">Nasıl çalışır?</a>
           </div>
-          <small class="download-meta">ZIP · 466 KB · Python 3.10+ · Son güncelleme: 29 Ağustos 2026</small>
+          <small class="download-meta">ZIP · 491 KB · Python 3.10+ · Son güncelleme: 6 Eylül 2026</small>
         </div>
 
         <div class="pc-result-panel" aria-label="Son doğrulama sonucu">
@@ -136,14 +152,14 @@
 
       <section class="feed-note" aria-label="Otomatik veri güncellemesi">
         <span class="feed-live"><i></i> CANLI VERİ</span>
-        <div><strong>Her gün kadro kontrolü</strong><p>Site, Transfermarkt'taki herkese açık kulüp kadrolarını her gün kontrol eder. Program her açılışta bu sitenin son sağlam listesini alır. <span id="pcDataStatus">İlk otomatik kontrol bekleniyor.</span></p></div>
+        <div><strong>Her gün kadro kontrolü</strong><p>Site, herkese açık futbol kadro kaynaklarındaki değişiklikleri düzenli olarak kontrol eder. Program her açılışta bu sitenin son doğrulanmış listesini alır. <span id="pcDataStatus">İlk otomatik kontrol bekleniyor.</span></p></div>
       </section>
 
       <section id="pcSteps" class="pc-section">
         <div class="section-heading"><div><span class="section-kicker">3 ADIMDA HAZIR</span><h2>Nasıl kullanılır?</h2></div></div>
         <div class="pc-steps">
           <article><span>01</span><h3>İndir ve çıkar</h3><p>ZIP dosyasını indir, tamamen yeni bir klasöre çıkar ve <strong>BASLAT.bat</strong> dosyasını aç.</p></article>
-          <article><span>02</span><h3>Resmi kadroyu al</h3><p><strong>Resmi PC Kadrosunu İndir</strong> düğmesiyle en güncel başlangıç dosyasını hazırla.</p></article>
+          <article><span>02</span><h3>Kendi dosyanı seç</h3><p>Yasal oyun kurulumundan aldığın mevcut <strong>Squads</strong> dosyasını seç ve işleme başlamadan önce yedeğini koru.</p></article>
           <article><span>03</span><h3>Tek tıkla güncelle</h3><p><strong>Güncellemeyi Oluştur</strong> düğmesine bas. Hazır Squads dosyası output klasörüne gelir.</p></article>
         </div>
       </section>
@@ -182,7 +198,14 @@
 
     <footer class="site-footer">
       <span>© 2026 FC26 Squad Sync</span>
-      <a href="./privacy.html">Gizlilik ve Çerez Politikası</a>
+      <nav aria-label="Alt menü">
+        <a href="./rehberler.html">Rehberler</a>
+        <a href="./sss.html">SSS</a>
+        <a href="./hakkimizda.html">Hakkımızda</a>
+        <a href="./iletisim.html">İletişim</a>
+        <a href="./kullanim-kosullari.html">Kullanım Koşulları</a>
+        <a href="./privacy.html">Gizlilik</a>
+      </nav>
     </footer>
   </main>
 
