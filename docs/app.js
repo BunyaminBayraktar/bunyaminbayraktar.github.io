@@ -312,8 +312,18 @@ function statusLabel(status){
   return {done:"Yapıldı", skipped:"Atlandı", pending:"Yapılmadı", neutral:"—"}[status] || "—";
 }
 
+function isActionableUnresolved(row){
+  const usefulText = [row.player, row.source, row.target]
+    .some(value => value && value !== "-");
+  const usefulTmId = row.tm_id && row.tm_id !== "-";
+  return usefulText || usefulTmId;
+}
+
 function renderList(){
-  const source = DATA[currentList] || [];
+  const allRows = DATA[currentList] || [];
+  const source = currentList === "unresolved"
+    ? allRows.filter(isActionableUnresolved)
+    : allRows;
   const query = normalize(document.querySelector("#searchInput").value.trim());
   const team = document.querySelector("#filterTeam").value;
   const status = document.querySelector("#filterStatus").value;
@@ -356,7 +366,10 @@ function renderList(){
 }
 
 function rebuildListTeams(preferredValue = ""){
-  const rows = DATA[currentList] || [];
+  const allRows = DATA[currentList] || [];
+  const rows = currentList === "unresolved"
+    ? allRows.filter(isActionableUnresolved)
+    : allRows;
   const teams = [...new Set(rows.flatMap(row => [row.source, row.target]).filter(team => team && team !== "-"))]
     .sort((a, b) => a.localeCompare(b, "tr"));
   const select = document.querySelector("#filterTeam");
