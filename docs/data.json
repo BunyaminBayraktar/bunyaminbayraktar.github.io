@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3839,
-    "creates": 3512,
+    "transfers": 3843,
+    "creates": 3516,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -2050,6 +2050,15 @@
       "source": "Al Taawoun",
       "target": "Al Qadsiah",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|83137|1235583|Al Qadsiah",
+      "fc_id": "83137",
+      "tm_id": "1235583",
+      "player": "Suleman Sani",
+      "source": "RB Leipzig",
+      "target": "Al Qadsiah",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|240638|460939|Al Qadsiah",
@@ -4685,15 +4694,6 @@
       "tm_id": "496745",
       "player": "Emil Holm",
       "source": "Juventus",
-      "target": "Bologna",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|231836|367992|Bologna",
-      "fc_id": "231836",
-      "tm_id": "367992",
-      "player": "Jesper Karlsson",
-      "source": "FC Utrecht",
       "target": "Bologna",
       "reason": "-"
     },
@@ -16371,6 +16371,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|235980|461608|Independiente",
+      "fc_id": "235980",
+      "tm_id": "461608",
+      "player": "Iván Morales",
+      "source": "Argentinos Juniors",
+      "target": "Independiente",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|216700|282476|Independiente",
       "fc_id": "216700",
       "tm_id": "282476",
@@ -22518,6 +22527,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|257889|374954|PAOK",
+      "fc_id": "257889",
+      "tm_id": "374954",
+      "player": "Kristijan Jakić",
+      "source": "FC Augsburg",
+      "target": "PAOK",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|229150|144244|PAOK",
       "fc_id": "229150",
       "tm_id": "144244",
@@ -24307,6 +24325,15 @@
       "source": "1. FC Kaiserslautern",
       "target": "Raków Częstochowa",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|71553|1191520|Raków Częstochowa",
+      "fc_id": "71553",
+      "tm_id": "1191520",
+      "player": "Nils Zätterström",
+      "source": "Sheffield United",
+      "target": "Raków Częstochowa",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|279130|1155608|Randers FC",
@@ -27495,6 +27522,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|231836|367992|Servette FC",
+      "fc_id": "231836",
+      "tm_id": "367992",
+      "player": "Jesper Karlsson",
+      "source": "Bologna",
+      "target": "Servette FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|70049|1111663|Servette FC",
       "fc_id": "70049",
       "tm_id": "1111663",
@@ -27774,6 +27810,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|197756|108354|Sheffield United",
+      "fc_id": "197756",
+      "tm_id": "108354",
+      "player": "Jordan Ayew",
+      "source": "Ghana",
+      "target": "Sheffield United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|246873|534701|Sheffield United",
       "fc_id": "246873",
       "tm_id": "534701",
@@ -27788,15 +27833,6 @@
       "tm_id": "171679",
       "player": "Matt Doherty",
       "source": "Wolverhampton Wanderers",
-      "target": "Sheffield United",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|71553|1191520|Sheffield United",
-      "fc_id": "71553",
-      "tm_id": "1191520",
-      "player": "Nils Zätterström",
-      "source": "Genoa",
       "target": "Sheffield United",
       "reason": "-"
     },
@@ -39503,6 +39539,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1343643|Bromley|daily",
+      "fc_id": "-",
+      "tm_id": "1343643",
+      "player": "George Evans",
+      "source": "-",
+      "target": "Bromley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|790994|Bromley|465",
       "fc_id": "-",
       "tm_id": "790994",
@@ -39618,6 +39663,15 @@
       "source": "-",
       "target": "Bruk-Bet Termalica Nieciecza",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1118867|Bruk-Bet Termalica Nieciecza|daily",
+      "fc_id": "-",
+      "tm_id": "1118867",
+      "player": "Michal Synos",
+      "source": "Górnik Zabrze",
+      "target": "Bruk-Bet Termalica Nieciecza",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1048631|Bruk-Bet Termalica Nieciecza|470",
@@ -43127,6 +43181,15 @@
       "player": "Yoann Prigent",
       "source": "-",
       "target": "Derry City",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1229556|Dinamo București|daily",
+      "fc_id": "-",
+      "tm_id": "1229556",
+      "player": "Andrei Ionică",
+      "source": "-",
+      "target": "Dinamo București",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
@@ -48467,15 +48530,6 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1118867|Górnik Zabrze|1343",
-      "fc_id": "-",
-      "tm_id": "1118867",
-      "player": "Michał Synoś",
-      "source": "-",
-      "target": "Górnik Zabrze",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
       "key": "CREATE|-|577596|Górnik Zabrze|1344",
       "fc_id": "-",
       "tm_id": "577596",
@@ -51668,6 +51722,15 @@
       "player": "Mirko Díaz",
       "source": "-",
       "target": "Juventud de Las Piedras",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|925845|Juventus|daily",
+      "fc_id": "-",
+      "tm_id": "925845",
+      "player": "Augusto Owusu",
+      "source": "-",
+      "target": "Juventus",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
@@ -60066,6 +60129,15 @@
       "source": "-",
       "target": "SD Eibar",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1253570|Servette FC|daily",
+      "fc_id": "-",
+      "tm_id": "1253570",
+      "player": "Benoît Sida",
+      "source": "-",
+      "target": "Servette FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1267613|Servette FC|2475",
@@ -86891,15 +86963,15 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-09-08T16:44:12+00:00",
+  "last_checked_at": "2026-09-09T08:14:24+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 1169,
-    "added_transfers": 387,
-    "updated_transfers": 102,
-    "returned_to_base": 12,
-    "review_items": 277,
-    "pruned_unresolved": 335,
+    "changed_players": 24,
+    "added_transfers": 4,
+    "updated_transfers": 2,
+    "returned_to_base": 0,
+    "review_items": 5,
+    "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
     "teams_failed": 16
