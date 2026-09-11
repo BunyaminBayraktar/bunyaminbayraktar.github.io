@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3852,
-    "creates": 3543,
+    "transfers": 3858,
+    "creates": 3555,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -7254,6 +7254,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|255703|467616|Cercle Brugge",
+      "fc_id": "255703",
+      "tm_id": "467616",
+      "player": "Luke Le Roux",
+      "source": "Portsmouth",
+      "target": "Cercle Brugge",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|267476|724529|Cercle Brugge",
       "fc_id": "267476",
       "tm_id": "724529",
@@ -8406,15 +8415,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|221331|226025|Como",
-      "fc_id": "221331",
-      "tm_id": "226025",
-      "player": "Luca Mazzitelli",
-      "source": "Cagliari",
-      "target": "Como",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|242201|281989|Como",
       "fc_id": "242201",
       "tm_id": "281989",
@@ -9250,6 +9250,15 @@
       "source": "Sint-Truiden",
       "target": "Dender",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|208615|201737|Dender",
+      "fc_id": "208615",
+      "tm_id": "201737",
+      "player": "Christopher Jullien",
+      "source": "Montpellier HSC",
+      "target": "Dender",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|74372|937117|Dender",
@@ -13399,6 +13408,15 @@
       "source": "Aberdeen",
       "target": "FK Haugesund",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|270116|401940|FK Haugesund",
+      "fc_id": "270116",
+      "tm_id": "401940",
+      "player": "Raphael Schifferl",
+      "source": "TSV 1860 München",
+      "target": "FK Haugesund",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|83185|926131|Fleetwood Town",
@@ -19791,6 +19809,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|193082|91970|Millonarios",
+      "fc_id": "193082",
+      "tm_id": "91970",
+      "player": "Juan Cuadrado",
+      "source": "Pisa",
+      "target": "Millonarios",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|195037|129049|Millwall",
       "fc_id": "195037",
       "tm_id": "129049",
@@ -22408,6 +22435,15 @@
       "source": "Monza",
       "target": "Palermo",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|221331|226025|Palermo",
+      "fc_id": "221331",
+      "tm_id": "226025",
+      "player": "Luca Mazzitelli",
+      "source": "Cagliari",
+      "target": "Palermo",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|253019|188889|Palermo",
@@ -32310,6 +32346,24 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|198731|149579|Vålerenga Fotball",
+      "fc_id": "198731",
+      "tm_id": "149579",
+      "player": "Elbasan Rashani",
+      "source": "Melbourne City",
+      "target": "Vålerenga Fotball",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|190738|136181|Vålerenga Fotball",
+      "fc_id": "190738",
+      "tm_id": "136181",
+      "player": "Håvard Nielsen",
+      "source": "Hannover 96",
+      "target": "Vålerenga Fotball",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|274270|671799|Vancouver Whitecaps",
       "fc_id": "274270",
       "tm_id": "671799",
@@ -35192,6 +35246,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1453893|Accrington Stanley|daily",
+      "fc_id": "-",
+      "tm_id": "1453893",
+      "player": "Oliver Smith",
+      "source": "-",
+      "target": "Accrington Stanley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|425712|Accrington Stanley|52",
       "fc_id": "-",
       "tm_id": "425712",
@@ -35388,6 +35451,15 @@
       "source": "-",
       "target": "AGF",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1466038|AGF|daily",
+      "fc_id": "-",
+      "tm_id": "1466038",
+      "player": "Mouhammade Camara",
+      "source": "-",
+      "target": "AGF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1237998|AGF|65",
@@ -37854,6 +37926,15 @@
       "source": "-",
       "target": "Atlético Nacional",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|88103|Atlético Nacional|daily",
+      "fc_id": "-",
+      "tm_id": "88103",
+      "player": "James Rodríguez",
+      "source": "-",
+      "target": "Atlético Nacional",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|989926|Atlético Nacional|283",
@@ -42014,6 +42095,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|726011|Colorado Rapids|daily",
+      "fc_id": "-",
+      "tm_id": "726011",
+      "player": "Bryan Dowd",
+      "source": "-",
+      "target": "Colorado Rapids",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1395892|Colorado Rapids|678",
       "fc_id": "-",
       "tm_id": "1395892",
@@ -43560,6 +43650,15 @@
       "source": "-",
       "target": "Djurgårdens IF",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1599665|Djurgårdens IF|daily",
+      "fc_id": "-",
+      "tm_id": "1599665",
+      "player": "Angelo Agbejoye",
+      "source": "-",
+      "target": "Djurgårdens IF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1376024|Djurgårdens IF|daily",
@@ -46793,6 +46892,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|79573|FC Utrecht|daily",
+      "fc_id": "-",
+      "tm_id": "79573",
+      "player": "Sergio Padt",
+      "source": "-",
+      "target": "FC Utrecht",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|564448|FC Volendam|1153",
       "fc_id": "-",
       "tm_id": "564448",
@@ -47202,6 +47310,15 @@
       "fc_id": "-",
       "tm_id": "1594547",
       "player": "Assan Sanyang",
+      "source": "-",
+      "target": "FK Bodø/Glimt",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1213616|FK Bodø/Glimt|daily",
+      "fc_id": "-",
+      "tm_id": "1213616",
+      "player": "Kasper Solhaug",
       "source": "-",
       "target": "FK Bodø/Glimt",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -53075,6 +53192,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1237144|Lech Poznań|daily",
+      "fc_id": "-",
+      "tm_id": "1237144",
+      "player": "Piotr Bartczak",
+      "source": "-",
+      "target": "Lech Poznań",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1300434|Lech Poznań|1770",
       "fc_id": "-",
       "tm_id": "1300434",
@@ -53262,6 +53388,15 @@
       "source": "-",
       "target": "Lechia Gdańsk",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|926276|Lechia Gdańsk|daily",
+      "fc_id": "-",
+      "tm_id": "926276",
+      "player": "Narek Hovhannisyan",
+      "source": "-",
+      "target": "Lechia Gdańsk",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1545985|Lechia Gdańsk|daily",
@@ -57476,6 +57611,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1136967|Pogoń Szczecin|daily",
+      "fc_id": "-",
+      "tm_id": "1136967",
+      "player": "Isaiah Eichie",
+      "source": "-",
+      "target": "Pogoń Szczecin",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|291693|Pogoń Szczecin|daily",
       "fc_id": "-",
       "tm_id": "291693",
@@ -59141,6 +59285,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|617679|Rio Ave|daily",
+      "fc_id": "-",
+      "tm_id": "617679",
+      "player": "Zé Carlos",
+      "source": "-",
+      "target": "Rio Ave",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|266807|River Plate|2351",
       "fc_id": "-",
       "tm_id": "266807",
@@ -60243,6 +60396,15 @@
       "fc_id": "-",
       "tm_id": "951101",
       "player": "Jimte Scholten",
+      "source": "-",
+      "target": "sc Heerenveen",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1275103|sc Heerenveen|daily",
+      "fc_id": "-",
+      "tm_id": "1275103",
+      "player": "Kirayno Schaken",
       "source": "-",
       "target": "sc Heerenveen",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -62381,13 +62543,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1165890|Standard Liège|2677",
+      "key": "CREATE|-|1165890|Standard Liège|daily",
       "fc_id": "-",
       "tm_id": "1165890",
       "player": "Noah Sy",
       "source": "-",
       "target": "Standard Liège",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|656141|Standard Liège|2680",
@@ -87287,14 +87449,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-09-10T11:37:44+00:00",
+  "last_checked_at": "2026-09-11T17:14:59+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 72,
-    "added_transfers": 10,
+    "changed_players": 51,
+    "added_transfers": 6,
     "updated_transfers": 1,
-    "returned_to_base": 1,
-    "review_items": 28,
+    "returned_to_base": 0,
+    "review_items": 13,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
