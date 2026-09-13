@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3858,
-    "creates": 3555,
+    "transfers": 3866,
+    "creates": 3573,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -9684,6 +9684,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|74164|1539223|Drogheda United",
+      "fc_id": "74164",
+      "tm_id": "1539223",
+      "player": "Charlie Cummins",
+      "source": "Exeter City",
+      "target": "Drogheda United",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|256421|276764|Dundee FC",
       "fc_id": "256421",
       "tm_id": "276764",
@@ -14868,6 +14877,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|261035|579291|Górnik Zabrze",
+      "fc_id": "261035",
+      "tm_id": "579291",
+      "player": "Zeidane Inoussa",
+      "source": "Swansea City",
+      "target": "Górnik Zabrze",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|278288|670850|Göztepe",
       "fc_id": "278288",
       "tm_id": "670850",
@@ -15532,6 +15550,15 @@
       "source": "Tranmere Rovers",
       "target": "Harrogate Town",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|271929|633621|Harrogate Town",
+      "fc_id": "271929",
+      "tm_id": "633621",
+      "player": "Michael Craig",
+      "source": "Leyton Orient",
+      "target": "Harrogate Town",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|193569|121333|Harrogate Town",
@@ -17386,6 +17413,15 @@
       "source": "-",
       "target": "KFUM-Kameratene Oslo",
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
+    },
+    {
+      "key": "TRANSFER|77749|1204043|KFUM-Kameratene Oslo",
+      "fc_id": "77749",
+      "tm_id": "1204043",
+      "player": "Ola Visted",
+      "source": "Viking FK",
+      "target": "KFUM-Kameratene Oslo",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|81276|1125601|KFUM-Kameratene Oslo",
@@ -19528,6 +19564,15 @@
       "source": "Brisbane Roar",
       "target": "Melbourne City",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|243966|479718|Melbourne Victory",
+      "fc_id": "243966",
+      "tm_id": "479718",
+      "player": "Guillermo May",
+      "source": "Auckland FC",
+      "target": "Melbourne Victory",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|237375|483593|Melbourne Victory",
@@ -21706,6 +21751,15 @@
       "source": "Aberdeen",
       "target": "Odense Boldklub",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|265460|742268|Odisha FC",
+      "fc_id": "265460",
+      "tm_id": "742268",
+      "player": "Hrithik Tiwari",
+      "source": "FC Goa",
+      "target": "Odisha FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|248289|489276|Odisha FC",
@@ -26494,6 +26548,15 @@
       "source": "Rotherham United",
       "target": "Salford City",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|203175|181007|Salford City",
+      "fc_id": "203175",
+      "tm_id": "181007",
+      "player": "Lee Burge",
+      "source": "Northampton Town",
+      "target": "Salford City",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|235915|419331|Salford City",
@@ -34065,6 +34128,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|215374|138783|Wigan Athletic",
+      "fc_id": "215374",
+      "tm_id": "138783",
+      "player": "Scott Hogan",
+      "source": "Milton Keynes Dons",
+      "target": "Wigan Athletic",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|266074|670877|Wigan Athletic",
       "fc_id": "266074",
       "tm_id": "670877",
@@ -37883,6 +37955,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|926766|Athletic Club de Bilbao|daily",
+      "fc_id": "-",
+      "tm_id": "926766",
+      "player": "Johaneko Louis-Jean",
+      "source": "-",
+      "target": "Athletic Club de Bilbao",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1106325|Atlanta United FC|280",
       "fc_id": "-",
       "tm_id": "1106325",
@@ -38691,6 +38772,15 @@
       "source": "-",
       "target": "Barnsley",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1304317|Barnsley|daily",
+      "fc_id": "-",
+      "tm_id": "1304317",
+      "player": "Luke Alker",
+      "source": "-",
+      "target": "Barnsley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|969470|Barnsley|353",
@@ -39665,6 +39755,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1567445|Brisbane Roar|daily",
+      "fc_id": "-",
+      "tm_id": "1567445",
+      "player": "Taj Sorensen",
+      "source": "-",
+      "target": "Brisbane Roar",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|589458|Brisbane Roar|454",
       "fc_id": "-",
       "tm_id": "589458",
@@ -40057,6 +40156,15 @@
       "tm_id": "1119453",
       "player": "Herba Guirassy",
       "source": "FC Nantes",
+      "target": "BSC Young Boys",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1061051|BSC Young Boys|daily",
+      "fc_id": "-",
+      "tm_id": "1061051",
+      "player": "Noë Tschanz",
+      "source": "-",
       "target": "BSC Young Boys",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
@@ -44822,6 +44930,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1122712|Everton|daily",
+      "fc_id": "-",
+      "tm_id": "1122712",
+      "player": "Braiden Graham",
+      "source": "-",
+      "target": "Everton",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|908857|Excelsior|952",
       "fc_id": "-",
       "tm_id": "908857",
@@ -46017,6 +46134,15 @@
       "source": "-",
       "target": "FC Groningen",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1174487|FC Groningen|daily",
+      "fc_id": "-",
+      "tm_id": "1174487",
+      "player": "Jahelille Hall",
+      "source": "-",
+      "target": "FC Groningen",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1052786|FC Groningen|daily",
@@ -48692,6 +48818,24 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1106645|Go Ahead Eagles|daily",
+      "fc_id": "-",
+      "tm_id": "1106645",
+      "player": "Terence Lantveld",
+      "source": "-",
+      "target": "Go Ahead Eagles",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1313181|Go Ahead Eagles|daily",
+      "fc_id": "-",
+      "tm_id": "1313181",
+      "player": "Thomas Hulleman",
+      "source": "-",
+      "target": "Go Ahead Eagles",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|528211|Go Ahead Eagles|daily",
       "fc_id": "-",
       "tm_id": "528211",
@@ -49293,6 +49437,15 @@
       "source": "-",
       "target": "Grimsby Town",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1350653|Grimsby Town|daily",
+      "fc_id": "-",
+      "tm_id": "1350653",
+      "player": "Elliot Smith",
+      "source": "-",
+      "target": "Grimsby Town",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1081143|Grimsby Town|daily",
@@ -51041,6 +51194,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1298503|Independiente|daily",
+      "fc_id": "-",
+      "tm_id": "1298503",
+      "player": "Josias Palais",
+      "source": "-",
+      "target": "Independiente",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1533085|Independiente|daily",
       "fc_id": "-",
       "tm_id": "1533085",
@@ -51075,6 +51237,15 @@
       "source": "-",
       "target": "Independiente Medellín",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|74418|Independiente Medellín|daily",
+      "fc_id": "-",
+      "tm_id": "74418",
+      "player": "Jackson Martínez",
+      "source": "-",
+      "target": "Independiente Medellín",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1418579|Independiente Medellín|3107",
@@ -55518,6 +55689,24 @@
       "fc_id": "-",
       "tm_id": "546225",
       "player": "Mohamed Bouchouari",
+      "source": "-",
+      "target": "NAC Breda",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1409811|NAC Breda|daily",
+      "fc_id": "-",
+      "tm_id": "1409811",
+      "player": "Mylan Brouwers",
+      "source": "-",
+      "target": "NAC Breda",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1409750|NAC Breda|daily",
+      "fc_id": "-",
+      "tm_id": "1409750",
+      "player": "Rayan van Aarst",
       "source": "-",
       "target": "NAC Breda",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -61616,6 +61805,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1600037|Sligo Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1600037",
+      "player": "Reuben Gillespie",
+      "source": "-",
+      "target": "Sligo Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1558013|Sligo Rovers|2571",
       "fc_id": "-",
       "tm_id": "1558013",
@@ -64757,6 +64955,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|157501|USL Dunkerque|daily",
+      "fc_id": "-",
+      "tm_id": "157501",
+      "player": "M'Baye Niang",
+      "source": "-",
+      "target": "USL Dunkerque",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|495602|USL Dunkerque|2883",
       "fc_id": "-",
       "tm_id": "495602",
@@ -64836,6 +65043,15 @@
       "source": "-",
       "target": "Valencia CF",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1009766|Valencia CF|daily",
+      "fc_id": "-",
+      "tm_id": "1009766",
+      "player": "David Otorbi",
+      "source": "-",
+      "target": "Valencia CF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|948169|Valencia CF|2895",
@@ -65007,6 +65223,15 @@
       "source": "-",
       "target": "Vélez Sarsfield",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1264647|Vélez Sarsfield|daily",
+      "fc_id": "-",
+      "tm_id": "1264647",
+      "player": "Juan Cruz Policella",
+      "source": "-",
+      "target": "Vélez Sarsfield",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1307323|Vélez Sarsfield|2908",
@@ -65742,6 +65967,15 @@
       "fc_id": "-",
       "tm_id": "670853",
       "player": "James Clarridge",
+      "source": "-",
+      "target": "Watford",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|104124|Watford|daily",
+      "fc_id": "-",
+      "tm_id": "104124",
+      "player": "Michail Antonio",
       "source": "-",
       "target": "Watford",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -87449,17 +87683,17 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-09-11T17:14:59+00:00",
+  "last_checked_at": "2026-09-13T18:12:44+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 51,
-    "added_transfers": 6,
-    "updated_transfers": 1,
+    "changed_players": 53,
+    "added_transfers": 8,
+    "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 13,
+    "review_items": 19,
     "pruned_unresolved": 0,
     "teams_checked": 637,
-    "teams_succeeded": 637,
-    "teams_failed": 16
+    "teams_succeeded": 636,
+    "teams_failed": 17
   }
 }
