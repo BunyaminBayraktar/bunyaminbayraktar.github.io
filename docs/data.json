@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3866,
-    "creates": 3573,
+    "transfers": 3869,
+    "creates": 3583,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -2500,6 +2500,15 @@
       "source": "WSG Tirol",
       "target": "Altach",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|258273|321874|Altach",
+      "fc_id": "258273",
+      "tm_id": "321874",
+      "player": "Johannes Naschberger",
+      "source": "WSG Tirol",
+      "target": "Altach",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|239708|307664|Altach",
@@ -19125,6 +19134,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|241245|547924|Macarthur FC",
+      "fc_id": "241245",
+      "tm_id": "547924",
+      "player": "Apostolos Stamatelopoulos",
+      "source": "Motherwell",
+      "target": "Macarthur FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|75033|1109825|Macarthur FC",
       "fc_id": "75033",
       "tm_id": "1109825",
@@ -20471,15 +20489,6 @@
       "tm_id": "617009",
       "player": "Alex Paulsen",
       "source": "Lechia Gdańsk",
-      "target": "Motherwell",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|241245|547924|Motherwell",
-      "fc_id": "241245",
-      "tm_id": "547924",
-      "player": "Apostolos Stamatelopoulos",
-      "source": "Sydney FC",
       "target": "Motherwell",
       "reason": "-"
     },
@@ -22554,6 +22563,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|268728|485584|Panathinaikos",
+      "fc_id": "268728",
+      "tm_id": "485584",
+      "player": "Anass Salah-Eddine",
+      "source": "Roma",
+      "target": "Panathinaikos",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|255125|593482|Panathinaikos",
       "fc_id": "255125",
       "tm_id": "593482",
@@ -22696,6 +22714,15 @@
       "source": "PEC Zwolle",
       "target": "PAOK",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|231652|344869|PAOK",
+      "fc_id": "231652",
+      "tm_id": "344869",
+      "player": "Simon Banza",
+      "source": "Congo DR",
+      "target": "PAOK",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|260972|731771|PAOK",
@@ -26160,15 +26187,6 @@
       "player": "Nachon Nsingi",
       "source": "RAAL La Louvière",
       "target": "Rodez Aveyron Football",
-      "reason": "-"
-    },
-    {
-      "key": "TRANSFER|268728|485584|Roma",
-      "fc_id": "268728",
-      "tm_id": "485584",
-      "player": "Anass Salah-Eddine",
-      "source": "PSV",
-      "target": "Roma",
       "reason": "-"
     },
     {
@@ -33507,6 +33525,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|262363|396561|Wellington Phoenix",
+      "fc_id": "262363",
+      "tm_id": "396561",
+      "player": "Max Anderson",
+      "source": "Crawley Town",
+      "target": "Wellington Phoenix",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|239626|552958|Wellington Phoenix",
       "fc_id": "239626",
       "tm_id": "552958",
@@ -38288,6 +38315,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|976828|Avellino|daily",
+      "fc_id": "-",
+      "tm_id": "976828",
+      "player": "Matteo Di Paola",
+      "source": "-",
+      "target": "Avellino",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|929870|Avellino|312",
       "fc_id": "-",
       "tm_id": "929870",
@@ -38295,6 +38331,15 @@
       "source": "-",
       "target": "Avellino",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|920941|Avellino|daily",
+      "fc_id": "-",
+      "tm_id": "920941",
+      "player": "Noah Mutanda",
+      "source": "-",
+      "target": "Avellino",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|967814|Avellino|daily",
@@ -38517,6 +38562,15 @@
       "fc_id": "-",
       "tm_id": "55167",
       "player": "Damián Díaz",
+      "source": "-",
+      "target": "Barcelona SC Guayaquil",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1292657|Barcelona SC Guayaquil|daily",
+      "fc_id": "-",
+      "tm_id": "1292657",
+      "player": "Eduardo Esterilla",
       "source": "-",
       "target": "Barcelona SC Guayaquil",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -39105,6 +39159,15 @@
       "source": "-",
       "target": "Belgrano de Córdoba",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1449111|Belgrano de Córdoba|daily",
+      "fc_id": "-",
+      "tm_id": "1449111",
+      "player": "Mario Gribaudo",
+      "source": "-",
+      "target": "Belgrano de Córdoba",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1464920|Benfica|390",
@@ -39744,6 +39807,15 @@
       "source": "-",
       "target": "Brisbane Roar",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1333552|Brisbane Roar|daily",
+      "fc_id": "-",
+      "tm_id": "1333552",
+      "player": "Max Court",
+      "source": "-",
+      "target": "Brisbane Roar",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1240369|Brisbane Roar|451",
@@ -43013,6 +43085,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|180926|Damac FC|daily",
+      "fc_id": "-",
+      "tm_id": "180926",
+      "player": "Abdullah Al-Yousif",
+      "source": "-",
+      "target": "Damac FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1304632|Damac FC|763",
       "fc_id": "-",
       "tm_id": "1304632",
@@ -43038,6 +43119,15 @@
       "source": "-",
       "target": "Damac FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1161122|Damac FC|daily",
+      "fc_id": "-",
+      "tm_id": "1161122",
+      "player": "Freej Al-Jizani",
+      "source": "-",
+      "target": "Damac FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|921071|Damac FC|769",
@@ -51221,6 +51311,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1257396|Independiente del Valle|daily",
+      "fc_id": "-",
+      "tm_id": "1257396",
+      "player": "Hólger Quintero",
+      "source": "-",
+      "target": "Independiente del Valle",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1088057|Independiente del Valle|1563",
       "fc_id": "-",
       "tm_id": "1088057",
@@ -58142,6 +58241,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|534471|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "534471",
+      "player": "Patrick Bahanack",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1175385|Punjab FC|2221",
       "fc_id": "-",
       "tm_id": "1175385",
@@ -61776,6 +61884,15 @@
       "source": "-",
       "target": "Sligo Rovers",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1601632|Sligo Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1601632",
+      "player": "Jamie O'Malley",
+      "source": "-",
+      "target": "Sligo Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|741225|Sligo Rovers|2575",
@@ -87683,17 +87800,17 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-09-13T18:12:44+00:00",
+  "last_checked_at": "2026-09-14T17:47:39+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 53,
-    "added_transfers": 8,
-    "updated_transfers": 0,
+    "changed_players": 27,
+    "added_transfers": 3,
+    "updated_transfers": 2,
     "returned_to_base": 0,
-    "review_items": 19,
+    "review_items": 10,
     "pruned_unresolved": 0,
     "teams_checked": 637,
-    "teams_succeeded": 636,
-    "teams_failed": 17
+    "teams_succeeded": 637,
+    "teams_failed": 16
   }
 }
