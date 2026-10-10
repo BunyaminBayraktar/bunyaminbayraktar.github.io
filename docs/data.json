@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3921,
-    "creates": 3725,
+    "transfers": 3925,
+    "creates": 3735,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -4001,6 +4001,15 @@
       "tm_id": "929715",
       "player": "Connor O'Riordan",
       "source": "Blackburn Rovers",
+      "target": "Barnsley",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|201887|169092|Barnsley",
+      "fc_id": "201887",
+      "tm_id": "169092",
+      "player": "Daniel Johnson",
+      "source": "Fatih Karagümrük S.K.",
       "target": "Barnsley",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -10814,6 +10823,15 @@
       "tm_id": "376859",
       "player": "Jalil Juan José Elíasجليل خوان خوسيه إلياس",
       "source": "Tigre",
+      "target": "Estudiantes de La Plata",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|201862|93176|Estudiantes de La Plata",
+      "fc_id": "201862",
+      "tm_id": "93176",
+      "player": "Marcos Rojo",
+      "source": "Racing Club de Avellaneda",
       "target": "Estudiantes de La Plata",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -26388,6 +26406,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|77403|1511477|Red Bull New York",
+      "fc_id": "77403",
+      "tm_id": "1511477",
+      "player": "Sekou Kone",
+      "source": "FC Lausanne-Sport",
+      "target": "Red Bull New York",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|70479|1059298|Red Star FC (FRANCE)",
       "fc_id": "70479",
       "tm_id": "1059298",
@@ -27601,6 +27628,15 @@
       "source": "-",
       "target": "SC Bastia",
       "reason": "SOURCE_TO_TARGET_FULL_HISTORY_PATH"
+    },
+    {
+      "key": "TRANSFER|276257|1133734|SC Bastia",
+      "fc_id": "276257",
+      "tm_id": "1133734",
+      "player": "Fallou Fall",
+      "source": "St. Louis City SC",
+      "target": "SC Bastia",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|77829|1200289|SC Bastia",
@@ -39917,6 +39953,24 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1417641|Bengaluru FC|daily",
+      "fc_id": "-",
+      "tm_id": "1417641",
+      "player": "Takhellambam Bobbish",
+      "source": "-",
+      "target": "Bengaluru FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1175384|Bengaluru FC|daily",
+      "fc_id": "-",
+      "tm_id": "1175384",
+      "player": "Yaipharemba Chingakham",
+      "source": "-",
+      "target": "Bengaluru FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|294808|Bergamo Calcio|daily",
       "fc_id": "-",
       "tm_id": "294808",
@@ -42797,6 +42851,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1005335|Chennaiyin FC|daily",
+      "fc_id": "-",
+      "tm_id": "1005335",
+      "player": "Malhar Mohol",
+      "source": "-",
+      "target": "Chennaiyin FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1402567|Chennaiyin FC|652",
       "fc_id": "-",
       "tm_id": "1402567",
@@ -43443,6 +43506,15 @@
       "source": "-",
       "target": "Cork City",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1509067|Cork City|daily",
+      "fc_id": "-",
+      "tm_id": "1509067",
+      "player": "Shane Hallihan",
+      "source": "-",
+      "target": "Cork City",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1325173|Cork City|710",
@@ -46964,6 +47036,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|415666|FC Cincinnati|daily",
+      "fc_id": "-",
+      "tm_id": "415666",
+      "player": "José Martínez",
+      "source": "-",
+      "target": "FC Cincinnati",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1458004|FC Dallas|1046",
       "fc_id": "-",
       "tm_id": "1458004",
@@ -47142,6 +47223,15 @@
       "source": "-",
       "target": "FC Goa",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1013022|FC Goa|daily",
+      "fc_id": "-",
+      "tm_id": "1013022",
+      "player": "Mervin Domnic Fernandes",
+      "source": "-",
+      "target": "FC Goa",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|758885|FC Goa|1054",
@@ -55064,6 +55154,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1405659|Legia Warszawa|daily",
+      "fc_id": "-",
+      "tm_id": "1405659",
+      "player": "Franciszek Stępniewski",
+      "source": "-",
+      "target": "Legia Warszawa",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1297215|Legia Warszawa|1794",
       "fc_id": "-",
       "tm_id": "1297215",
@@ -62147,6 +62246,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|931175|SC Delhi|daily",
+      "fc_id": "-",
+      "tm_id": "931175",
+      "player": "Bhabindra Malla Thakuri",
+      "source": "-",
+      "target": "SC Delhi",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|297467|SC Delhi|daily",
       "fc_id": "-",
       "tm_id": "297467",
@@ -63519,6 +63627,15 @@
       "fc_id": "-",
       "tm_id": "1600037",
       "player": "Reuben Gillespie",
+      "source": "-",
+      "target": "Sligo Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1611313|Sligo Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1611313",
+      "player": "Ross Ruane-Dalton",
       "source": "-",
       "target": "Sligo Rovers",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -67115,6 +67232,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|616228|Venezia|daily",
+      "fc_id": "-",
+      "tm_id": "616228",
+      "player": "Filippo Neri",
+      "source": "-",
+      "target": "Venezia",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1372355|Venezia|2915",
       "fc_id": "-",
       "tm_id": "1372355",
@@ -68195,13 +68321,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|900848|Wisła Płock|3014",
+      "key": "CREATE|-|900848|Wisła Płock|daily",
       "fc_id": "-",
       "tm_id": "900848",
       "player": "Przemysław Misiak",
       "source": "-",
       "target": "Wisła Płock",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1012052|Wisła Płock|daily",
@@ -89546,14 +89672,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-09T16:12:21+00:00",
+  "last_checked_at": "2026-10-10T17:12:57+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 391,
-    "added_transfers": 53,
-    "updated_transfers": 2,
-    "returned_to_base": 1,
-    "review_items": 148,
+    "changed_players": 21,
+    "added_transfers": 4,
+    "updated_transfers": 0,
+    "returned_to_base": 0,
+    "review_items": 12,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
