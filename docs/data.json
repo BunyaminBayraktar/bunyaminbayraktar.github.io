@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3925,
-    "creates": 3735,
+    "transfers": 3927,
+    "creates": 3738,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -7638,6 +7638,15 @@
       "player": "Triston Rowe",
       "source": "FC Annecy",
       "target": "Charleroi",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|208135|127187|Charlotte FC",
+      "fc_id": "208135",
+      "tm_id": "127187",
+      "player": "Abdoulaye Doucouré",
+      "source": "NEOM SC",
+      "target": "Charlotte FC",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
@@ -17602,6 +17611,15 @@
       "source": "MSV Duisburg",
       "target": "Kayserispor",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|253726|280936|Kerala Blasters FC",
+      "fc_id": "253726",
+      "tm_id": "280936",
+      "player": "Amey Ranawade",
+      "source": "Mohun Bagan Super Giant",
+      "target": "Kerala Blasters FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|223760|301053|Kerala Blasters FC",
@@ -39521,6 +39539,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1043556|Barrow|daily",
+      "fc_id": "-",
+      "tm_id": "1043556",
+      "player": "Adam Alimi-Adetoro",
+      "source": "-",
+      "target": "Barrow",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|480233|Barrow|369",
       "fc_id": "-",
       "tm_id": "480233",
@@ -55280,13 +55307,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1362240|Leyton Orient|1809",
+      "key": "CREATE|-|1362240|Leyton Orient|daily",
       "fc_id": "-",
       "tm_id": "1362240",
       "player": "Alfie Wellens",
       "source": "-",
       "target": "Leyton Orient",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|914282|Leyton Orient|daily",
@@ -57152,10 +57179,28 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1133194|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "1133194",
+      "player": "Supratim Das",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|191631|Mumbai City FC|daily",
       "fc_id": "-",
       "tm_id": "191631",
       "player": "Wilmar Jordán Gil",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1402273|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "1402273",
+      "player": "Yuvraj Kadam",
       "source": "-",
       "target": "Mumbai City FC",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -89672,14 +89717,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-10T17:12:57+00:00",
+  "last_checked_at": "2026-10-11T10:07:10+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 21,
-    "added_transfers": 4,
+    "changed_players": 22,
+    "added_transfers": 2,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 12,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
