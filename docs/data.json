@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3929,
-    "creates": 3757,
+    "creates": 3762,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -43292,6 +43292,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1401287|Columbus Crew|daily",
+      "fc_id": "-",
+      "tm_id": "1401287",
+      "player": "Kevin Gbamblé",
+      "source": "-",
+      "target": "Columbus Crew",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|688739|Columbus Crew|680",
       "fc_id": "-",
       "tm_id": "688739",
@@ -45729,6 +45738,15 @@
       "source": "-",
       "target": "Entella",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|519868|Erzgebirge Aue|daily",
+      "fc_id": "-",
+      "tm_id": "519868",
+      "player": "Ali Loune",
+      "source": "-",
+      "target": "Erzgebirge Aue",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|529101|Erzgebirge Aue|927",
@@ -57764,6 +57782,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1203231|Newcastle Jets|daily",
+      "fc_id": "-",
+      "tm_id": "1203231",
+      "player": "Ethan Debono",
+      "source": "-",
+      "target": "Newcastle Jets",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1530071|Newcastle Jets|daily",
       "fc_id": "-",
       "tm_id": "1530071",
@@ -64802,6 +64829,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1270789|Stade Lavallois MFC|daily",
+      "fc_id": "-",
+      "tm_id": "1270789",
+      "player": "Oumar Konaté",
+      "source": "-",
+      "target": "Stade Lavallois MFC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1334280|Stade Lavallois MFC|daily",
       "fc_id": "-",
       "tm_id": "1334280",
@@ -68202,6 +68238,15 @@
       "source": "-",
       "target": "Watford",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1516176|Wellington Phoenix|daily",
+      "fc_id": "-",
+      "tm_id": "1516176",
+      "player": "Ben Trenberth",
+      "source": "-",
+      "target": "Wellington Phoenix",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|724808|Wellington Phoenix|daily",
@@ -89906,14 +89951,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-14T17:24:06+00:00",
+  "last_checked_at": "2026-10-15T13:53:33+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 53,
-    "added_transfers": 2,
+    "changed_players": 16,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 19,
+    "review_items": 5,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
