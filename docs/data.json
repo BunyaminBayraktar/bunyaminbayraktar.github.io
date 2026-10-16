@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3929,
-    "creates": 3762,
+    "transfers": 3930,
+    "creates": 3772,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -1069,6 +1069,15 @@
       "source": "Wigan Athletic",
       "target": "AFC Wimbledon",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|75330|1224844|AFC Wimbledon",
+      "fc_id": "75330",
+      "tm_id": "1224844",
+      "player": "Tegan Finn",
+      "source": "-",
+      "target": "AFC Wimbledon",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|243666|400797|AGF",
@@ -36065,15 +36074,6 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|75330|1224844|AFC Wimbledon|3087",
-      "fc_id": "75330",
-      "tm_id": "1224844",
-      "player": "Harry Hedges",
-      "source": "-",
-      "target": "AFC Wimbledon",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
       "key": "CREATE|-|1352640|AFC Wimbledon|62",
       "fc_id": "-",
       "tm_id": "1352640",
@@ -57800,6 +57800,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1356496|Newcastle Jets|daily",
+      "fc_id": "-",
+      "tm_id": "1356496",
+      "player": "Nicholas Badolato",
+      "source": "-",
+      "target": "Newcastle Jets",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1489849|Newcastle Jets|2012",
       "fc_id": "-",
       "tm_id": "1489849",
@@ -58464,6 +58473,24 @@
       "source": "-",
       "target": "Olympiacos",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|955449|Olympique de Marseille|daily",
+      "fc_id": "-",
+      "tm_id": "955449",
+      "player": "Alexi Koum",
+      "source": "-",
+      "target": "Olympique de Marseille",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1183715|Olympique de Marseille|daily",
+      "fc_id": "-",
+      "tm_id": "1183715",
+      "player": "Kelyann Bezahaf",
+      "source": "-",
+      "target": "Olympique de Marseille",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1183719|Olympique de Marseille|2072",
@@ -60059,10 +60086,55 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|857670|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "857670",
+      "player": "Ayush Deshwal",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1258629|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1258629",
+      "player": "Bishu Sharma",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|616276|Punjab FC|daily",
       "fc_id": "-",
       "tm_id": "616276",
       "player": "Diego Raposo",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1175397|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1175397",
+      "player": "Karish Soram",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1258623|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1258623",
+      "player": "Konsam Sanathoi Singh",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1213756|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1213756",
+      "player": "Laishram Rishikanta Meitei",
       "source": "-",
       "target": "Punjab FC",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -60075,6 +60147,24 @@
       "source": "-",
       "target": "Punjab FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1258615|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1258615",
+      "player": "Mohammed Sohel Khan",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1529712|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1529712",
+      "player": "Ngarin Shaiza",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|739136|Punjab FC|2222",
@@ -65097,6 +65187,15 @@
       "source": "-",
       "target": "Sunderland",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1079078|Sunderland|daily",
+      "fc_id": "-",
+      "tm_id": "1079078",
+      "player": "Timur Tuterov",
+      "source": "-",
+      "target": "Sunderland",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|772978|Suwon FC|daily",
@@ -89951,14 +90050,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-15T13:53:33+00:00",
+  "last_checked_at": "2026-10-16T15:29:28+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 16,
-    "added_transfers": 0,
+    "changed_players": 15,
+    "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 5,
+    "review_items": 11,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
