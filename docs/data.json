@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3930,
-    "creates": 3772,
+    "transfers": 3931,
+    "creates": 3774,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -3078,15 +3078,6 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
-      "key": "TRANSFER|239816|349536|Arouca",
-      "fc_id": "239816",
-      "tm_id": "349536",
-      "player": "Nico Mantl",
-      "source": "Blau-Weiß Linz",
-      "target": "Arouca",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|247040|524964|Arouca",
       "fc_id": "247040",
       "tm_id": "524964",
@@ -4039,6 +4030,15 @@
       "source": "Gillingham",
       "target": "Barnsley",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|273540|875570|Barnsley",
+      "fc_id": "273540",
+      "tm_id": "875570",
+      "player": "Tobi Adeyemo",
+      "source": "Crawley Town",
+      "target": "Barnsley",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|79032|708005|Barnsley",
@@ -17782,6 +17782,15 @@
       "source": "St. Mirren",
       "target": "Kilmarnock",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|239816|349536|Kilmarnock",
+      "fc_id": "239816",
+      "tm_id": "349536",
+      "player": "Nico Mantl",
+      "source": "Blau-Weiß Linz",
+      "target": "Kilmarnock",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|259675|469787|Kocaelispor",
@@ -65801,6 +65810,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1379292|Tigre|daily",
+      "fc_id": "-",
+      "tm_id": "1379292",
+      "player": "Ignacio Peluffo",
+      "source": "-",
+      "target": "Tigre",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1322847|Tigre|2754",
       "fc_id": "-",
       "tm_id": "1322847",
@@ -68542,6 +68560,15 @@
       "tm_id": "372445",
       "player": "Dani Silva",
       "source": "FC Midtjylland",
+      "target": "Widzew Łódź",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1549309|Widzew Łódź|daily",
+      "fc_id": "-",
+      "tm_id": "1549309",
+      "player": "Franciszek Golański",
+      "source": "-",
       "target": "Widzew Łódź",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
@@ -90050,14 +90077,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-16T15:29:28+00:00",
+  "last_checked_at": "2026-10-17T17:05:54+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 15,
+    "changed_players": 5,
     "added_transfers": 1,
-    "updated_transfers": 0,
+    "updated_transfers": 1,
     "returned_to_base": 0,
-    "review_items": 11,
+    "review_items": 2,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
