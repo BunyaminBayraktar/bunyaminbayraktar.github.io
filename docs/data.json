@@ -1,7 +1,7 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3931,
+    "transfers": 3932,
     "creates": 3774,
     "exists": 2302,
     "unresolved": 0,
@@ -9599,6 +9599,15 @@
       "tm_id": "914934",
       "player": "Henrik Meister",
       "source": "Pisa",
+      "target": "Derby County",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|199027|128909|Derby County",
+      "fc_id": "199027",
+      "tm_id": "128909",
+      "player": "Jack Robinson",
+      "source": "Birmingham City",
       "target": "Derby County",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -90077,14 +90086,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-17T17:05:54+00:00",
+  "last_checked_at": "2026-10-18T12:32:27+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 5,
+    "changed_players": 8,
     "added_transfers": 1,
-    "updated_transfers": 1,
+    "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 2,
+    "review_items": 0,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
