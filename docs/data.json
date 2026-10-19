@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3932,
-    "creates": 3774,
+    "transfers": 3933,
+    "creates": 3777,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -3067,6 +3067,15 @@
       "source": "Hansa Rostock",
       "target": "Arminia Bielefeld",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|81317|809693|Arminia Bielefeld",
+      "fc_id": "81317",
+      "tm_id": "809693",
+      "player": "Vincent Ocansey",
+      "source": "Erzgebirge Aue",
+      "target": "Arminia Bielefeld",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|72281|940858|Arouca",
@@ -41915,6 +41924,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1338488|CD Leganés|daily",
+      "fc_id": "-",
+      "tm_id": "1338488",
+      "player": "Sule El Haddadi",
+      "source": "-",
+      "target": "CD Leganés",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1108471|Celtic|daily",
       "fc_id": "-",
       "tm_id": "1108471",
@@ -50609,6 +50627,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1553299|Granada CF|daily",
+      "fc_id": "-",
+      "tm_id": "1553299",
+      "player": "Dylan Rodríguez",
+      "source": "-",
+      "target": "Granada CF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1443488|Granada CF|daily",
       "fc_id": "-",
       "tm_id": "1443488",
@@ -53649,6 +53676,15 @@
       "source": "-",
       "target": "Junior de Barranquilla",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|716275|Junior de Barranquilla|daily",
+      "fc_id": "-",
+      "tm_id": "716275",
+      "player": "Jaime Acosta",
+      "source": "-",
+      "target": "Junior de Barranquilla",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|814306|Junior de Barranquilla|1649",
@@ -68195,13 +68231,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1313568|Walsall|2966",
+      "key": "CREATE|-|1313568|Walsall|daily",
       "fc_id": "-",
       "tm_id": "1313568",
       "player": "Jenson Kilroy",
       "source": "-",
       "target": "Walsall",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|727289|Walsall|2970",
@@ -90086,14 +90122,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-18T12:32:27+00:00",
+  "last_checked_at": "2026-10-19T17:07:56+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 8,
+    "changed_players": 7,
     "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 0,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
