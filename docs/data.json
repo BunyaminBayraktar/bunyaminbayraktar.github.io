@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3936,
-    "creates": 3779,
+    "transfers": 3938,
+    "creates": 3786,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -23580,6 +23580,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|180903|68327|Perth Glory",
+      "fc_id": "180903",
+      "tm_id": "68327",
+      "player": "Jay O'Shea",
+      "source": "Brisbane Roar",
+      "target": "Perth Glory",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|228210|298883|Perth Glory",
       "fc_id": "228210",
       "tm_id": "298883",
@@ -29995,6 +30004,15 @@
       "source": "Stade Brestois 29",
       "target": "Stade de Reims",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|74886|1284766|Stade de Reims",
+      "fc_id": "74886",
+      "tm_id": "1284766",
+      "player": "Quentin Paris",
+      "source": "FC Annecy",
+      "target": "Stade de Reims",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|257978|704270|Stade de Reims",
@@ -42122,6 +42140,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1377871|Central Córdoba|daily",
+      "fc_id": "-",
+      "tm_id": "1377871",
+      "player": "Tiziano Ramirez",
+      "source": "-",
+      "target": "Central Córdoba",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|435808|Cercle Brugge|578",
       "fc_id": "-",
       "tm_id": "435808",
@@ -43218,6 +43245,15 @@
       "source": "-",
       "target": "Clermont Foot",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1119420|Clermont Foot|daily",
+      "fc_id": "-",
+      "tm_id": "1119420",
+      "player": "Marouane Admar",
+      "source": "-",
+      "target": "Clermont Foot",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|955360|Clermont Foot|670",
@@ -49259,6 +49295,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1378926|GAIS|daily",
+      "fc_id": "-",
+      "tm_id": "1378926",
+      "player": "Elias Younan",
+      "source": "-",
+      "target": "GAIS",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1024628|GAIS|1230",
       "fc_id": "-",
       "tm_id": "1024628",
@@ -54999,6 +55044,15 @@
       "source": "-",
       "target": "Le Havre AC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1207432|Le Havre AC|daily",
+      "fc_id": "-",
+      "tm_id": "1207432",
+      "player": "Lamine N'Diaye",
+      "source": "-",
+      "target": "Le Havre AC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|770438|Le Havre AC|daily",
@@ -61832,6 +61886,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1162414|Rot-Weiß Essen|daily",
+      "fc_id": "-",
+      "tm_id": "1162414",
+      "player": "Fadih Vasic",
+      "source": "-",
+      "target": "Rot-Weiß Essen",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1279119|Rot-Weiß Essen|2368",
       "fc_id": "-",
       "tm_id": "1279119",
@@ -61839,6 +61902,15 @@
       "source": "-",
       "target": "Rot-Weiß Essen",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1418496|Rot-Weiß Essen|daily",
+      "fc_id": "-",
+      "tm_id": "1418496",
+      "player": "Rami Malaeb",
+      "source": "-",
+      "target": "Rot-Weiß Essen",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|982127|Rot-Weiß Essen|2367",
@@ -64962,6 +65034,15 @@
       "source": "-",
       "target": "Stade de Reims",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1392645|Stade de Reims|daily",
+      "fc_id": "-",
+      "tm_id": "1392645",
+      "player": "Seydou Dembélé",
+      "source": "-",
+      "target": "Stade de Reims",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1297264|Stade de Reims|2668",
@@ -90167,14 +90248,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-21T18:52:22+00:00",
+  "last_checked_at": "2026-10-22T18:28:38+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 6,
-    "added_transfers": 3,
+    "changed_players": 14,
+    "added_transfers": 2,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 2,
+    "review_items": 7,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
