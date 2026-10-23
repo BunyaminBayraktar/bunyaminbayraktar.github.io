@@ -90248,14 +90248,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-22T18:28:38+00:00",
+  "last_checked_at": "2026-10-23T15:14:01+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 14,
-    "added_transfers": 2,
+    "changed_players": 2,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 7,
+    "review_items": 0,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
