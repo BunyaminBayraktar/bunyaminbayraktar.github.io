@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3938,
-    "creates": 3786,
+    "transfers": 3939,
+    "creates": 3787,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -30510,6 +30510,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|270996|552035|Sturm Graz",
+      "fc_id": "270996",
+      "tm_id": "552035",
+      "player": "Adam Stejskal",
+      "source": "WSG Tirol",
+      "target": "Sturm Graz",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|257304|307598|Sturm Graz",
       "fc_id": "257304",
       "tm_id": "307598",
@@ -50564,13 +50573,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1377833|Górnik Zabrze|1345",
+      "key": "CREATE|-|1377833|Górnik Zabrze|daily",
       "fc_id": "-",
       "tm_id": "1377833",
       "player": "Ksawery Semik",
       "source": "-",
       "target": "Górnik Zabrze",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|906970|Górnik Zabrze|daily",
@@ -51014,13 +51023,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1350651|Grimsby Town|1385",
+      "key": "CREATE|-|1350651|Grimsby Town|daily",
       "fc_id": "-",
       "tm_id": "1350651",
       "player": "Alex Graham",
       "source": "-",
       "target": "Grimsby Town",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1137106|Grimsby Town|1387",
@@ -55649,13 +55658,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1081154|Leyton Orient|1810",
+      "key": "CREATE|-|1081154|Leyton Orient|daily",
       "fc_id": "-",
       "tm_id": "1081154",
       "player": "Tariq Al-Sadi",
       "source": "-",
       "target": "Leyton Orient",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1225833|Leyton Orient|1808",
@@ -60005,13 +60014,13 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|-|878645|Port Vale|2200",
+      "key": "CREATE|-|878645|Port Vale|daily",
       "fc_id": "-",
       "tm_id": "878645",
       "player": "Mason Terry",
       "source": "-",
       "target": "Port Vale",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|633659|Port Vale|2201",
@@ -61920,6 +61929,15 @@
       "source": "-",
       "target": "Rot-Weiß Essen",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|507700|Rotherham United|daily",
+      "fc_id": "-",
+      "tm_id": "507700",
+      "player": "Brandon Williams",
+      "source": "-",
+      "target": "Rotherham United",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|614141|Rotherham United|2371",
@@ -68375,13 +68393,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1039810|Walsall|2972",
+      "key": "CREATE|-|1039810|Walsall|daily",
       "fc_id": "-",
       "tm_id": "1039810",
       "player": "Ronan Maher",
       "source": "-",
       "target": "Walsall",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|344008|Walsall|2967",
@@ -90248,14 +90266,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-23T15:14:01+00:00",
+  "last_checked_at": "2026-10-24T18:28:48+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 2,
-    "added_transfers": 0,
+    "changed_players": 13,
+    "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 0,
+    "review_items": 6,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
