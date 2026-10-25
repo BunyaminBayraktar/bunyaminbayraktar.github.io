@@ -1,7 +1,7 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3939,
+    "transfers": 3940,
     "creates": 3787,
     "exists": 2302,
     "unresolved": 0,
@@ -27862,6 +27862,15 @@
       "source": "Borussia M'gladbach",
       "target": "SC Freiburg",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|79038|1196804|sc Heerenveen",
+      "fc_id": "79038",
+      "tm_id": "1196804",
+      "player": "Anass Bouziane",
+      "source": "FC Volendam",
+      "target": "sc Heerenveen",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|262334|485587|sc Heerenveen",
@@ -90266,14 +90275,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-24T18:28:48+00:00",
+  "last_checked_at": "2026-10-25T13:27:24+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 13,
+    "changed_players": 3,
     "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 6,
+    "review_items": 0,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
