@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3940,
-    "creates": 3787,
+    "creates": 3796,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -42131,6 +42131,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1407114|Central Coast Mariners|daily",
+      "fc_id": "-",
+      "tm_id": "1407114",
+      "player": "Ty Mckibbin",
+      "source": "-",
+      "target": "Central Coast Mariners",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|260377|Central Córdoba|575",
       "fc_id": "-",
       "tm_id": "260377",
@@ -43965,6 +43974,15 @@
       "source": "-",
       "target": "Cremonese",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1406884|Cremonese|daily",
+      "fc_id": "-",
+      "tm_id": "1406884",
+      "player": "Gabriel Herzuah",
+      "source": "-",
+      "target": "Cremonese",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|667627|Cremonese|735",
@@ -48863,6 +48881,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1075551|Feyenoord|daily",
+      "fc_id": "-",
+      "tm_id": "1075551",
+      "player": "Theodoros Delianidis",
+      "source": "-",
+      "target": "Feyenoord",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1016034|Feyenoord|1191",
       "fc_id": "-",
       "tm_id": "1016034",
@@ -49806,6 +49833,15 @@
       "source": "-",
       "target": "Gençlerbirliği",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1438145|Gençlerbirliği|daily",
+      "fc_id": "-",
+      "tm_id": "1438145",
+      "player": "Hasan Oğul",
+      "source": "-",
+      "target": "Gençlerbirliği",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|618869|Gençlerbirliği|1269",
@@ -52382,6 +52418,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1215464|Huddersfield Town|daily",
+      "fc_id": "-",
+      "tm_id": "1215464",
+      "player": "Anthony Gregory",
+      "source": "-",
+      "target": "Huddersfield Town",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|893658|Hull City|1517",
       "fc_id": "-",
       "tm_id": "893658",
@@ -53766,6 +53811,15 @@
       "source": "-",
       "target": "Jeonbuk Hyundai Motors",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1398548|Junior de Barranquilla|daily",
+      "fc_id": "-",
+      "tm_id": "1398548",
+      "player": "Andrés Shmalbach",
+      "source": "-",
+      "target": "Junior de Barranquilla",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|543467|Junior de Barranquilla|1650",
@@ -57728,6 +57782,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1372200|Nacional|daily",
+      "fc_id": "-",
+      "tm_id": "1372200",
+      "player": "Luciano Rodríguez",
+      "source": "-",
+      "target": "Nacional",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1452523|Nacional|daily",
       "fc_id": "-",
       "tm_id": "1452523",
@@ -57944,10 +58007,28 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1249078|Newcastle Jets|daily",
+      "fc_id": "-",
+      "tm_id": "1249078",
+      "player": "Angus Reid",
+      "source": "-",
+      "target": "Newcastle Jets",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1203231|Newcastle Jets|daily",
       "fc_id": "-",
       "tm_id": "1203231",
       "player": "Ethan Debono",
+      "source": "-",
+      "target": "Newcastle Jets",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1525648|Newcastle Jets|daily",
+      "fc_id": "-",
+      "tm_id": "1525648",
+      "player": "Jake Goodwin",
       "source": "-",
       "target": "Newcastle Jets",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -90275,17 +90356,17 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-25T13:27:24+00:00",
+  "last_checked_at": "2026-10-26T15:42:13+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 3,
-    "added_transfers": 1,
+    "changed_players": 14,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 0,
+    "review_items": 9,
     "pruned_unresolved": 0,
     "teams_checked": 637,
-    "teams_succeeded": 637,
-    "teams_failed": 16
+    "teams_succeeded": 636,
+    "teams_failed": 17
   }
 }
