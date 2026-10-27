@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3940,
-    "creates": 3796,
+    "creates": 3802,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -35768,6 +35768,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|234112|1. FC Schweinfurt 05|daily",
+      "fc_id": "-",
+      "tm_id": "234112",
+      "player": "Martin Thomann",
+      "source": "-",
+      "target": "1. FC Schweinfurt 05",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1013896|1. FC Schweinfurt 05|30",
       "fc_id": "-",
       "tm_id": "1013896",
@@ -49061,6 +49070,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1547421|FK Csíkszereda Miercurea Ciuc|daily",
+      "fc_id": "-",
+      "tm_id": "1547421",
+      "player": "Szabolcs Nyitra",
+      "source": "-",
+      "target": "FK Csíkszereda Miercurea Ciuc",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|592928|FK Csíkszereda Miercurea Ciuc|1200",
       "fc_id": "-",
       "tm_id": "592928",
@@ -49093,6 +49111,15 @@
       "tm_id": "1043977",
       "player": "Lars Remmem",
       "source": "SK Brann",
+      "target": "FK Haugesund",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1294380|FK Haugesund|daily",
+      "fc_id": "-",
+      "tm_id": "1294380",
+      "player": "Lassana Doucouré",
+      "source": "-",
       "target": "FK Haugesund",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
@@ -51543,6 +51570,15 @@
       "source": "-",
       "target": "Hannover 96",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|910594|Hannover 96|daily",
+      "fc_id": "-",
+      "tm_id": "910594",
+      "player": "Merlin Sinanovic",
+      "source": "-",
+      "target": "Hannover 96",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1009443|Hannover 96|1430",
@@ -61229,6 +61265,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1618113|RC Lens|daily",
+      "fc_id": "-",
+      "tm_id": "1618113",
+      "player": "Moussa Diarra",
+      "source": "-",
+      "target": "RC Lens",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1160378|RC Lens|2300",
       "fc_id": "-",
       "tm_id": "1160378",
@@ -65052,6 +65097,15 @@
       "source": "-",
       "target": "St Patrick's Athletic",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1188254|Stade Brestois 29|daily",
+      "fc_id": "-",
+      "tm_id": "1188254",
+      "player": "Mathis Lainé",
+      "source": "-",
+      "target": "Stade Brestois 29",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1228465|Stade Brestois 29|2661",
@@ -90356,17 +90410,17 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-10-26T15:42:13+00:00",
+  "last_checked_at": "2026-10-27T16:10:29+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 14,
+    "changed_players": 6,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 9,
+    "review_items": 6,
     "pruned_unresolved": 0,
     "teams_checked": 637,
-    "teams_succeeded": 636,
-    "teams_failed": 17
+    "teams_succeeded": 637,
+    "teams_failed": 16
   }
 }
