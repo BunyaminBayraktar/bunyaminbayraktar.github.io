@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3941,
-    "creates": 3816,
+    "creates": 3819,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -39071,6 +39071,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|293015|Austria Wien|daily",
+      "fc_id": "-",
+      "tm_id": "293015",
+      "player": "Wilhelm Vorsager",
+      "source": "-",
+      "target": "Austria Wien",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|932763|Avellino|daily",
       "fc_id": "-",
       "tm_id": "932763",
@@ -45639,6 +45648,15 @@
       "source": "-",
       "target": "Eintracht Frankfurt",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1318933|Eintracht Frankfurt|daily",
+      "fc_id": "-",
+      "tm_id": "1318933",
+      "player": "Niko Ilicevic",
+      "source": "-",
+      "target": "Eintracht Frankfurt",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|589456|Elche CF|882",
@@ -62892,6 +62910,15 @@
       "source": "-",
       "target": "Sarpsborg 08",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1534891|Sarpsborg 08|daily",
+      "fc_id": "-",
+      "tm_id": "1534891",
+      "player": "Maximilian Ljung",
+      "source": "-",
+      "target": "Sarpsborg 08",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|429287|Sarpsborg 08|2429",
@@ -90545,14 +90572,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-01T14:43:07+00:00",
+  "last_checked_at": "2026-11-03T14:47:52+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 35,
-    "added_transfers": 1,
+    "changed_players": 12,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 16,
+    "review_items": 3,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
