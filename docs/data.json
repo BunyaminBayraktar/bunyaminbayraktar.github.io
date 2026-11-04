@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3941,
-    "creates": 3819,
+    "creates": 3821,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -39881,6 +39881,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1070018|Bayern München|daily",
+      "fc_id": "-",
+      "tm_id": "1070018",
+      "player": "Tim Binder",
+      "source": "-",
+      "target": "Bayern München",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|435208|Beijing Guoan|385",
       "fc_id": "-",
       "tm_id": "435208",
@@ -67835,6 +67844,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1612652|UTA Arad|daily",
+      "fc_id": "-",
+      "tm_id": "1612652",
+      "player": "Roland Sabău",
+      "source": "-",
+      "target": "UTA Arad",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1515724|Valencia CF|daily",
       "fc_id": "-",
       "tm_id": "1515724",
@@ -90572,14 +90590,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-03T14:47:52+00:00",
+  "last_checked_at": "2026-11-04T11:06:26+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 12,
+    "changed_players": 5,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 3,
+    "review_items": 2,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
