@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3941,
-    "creates": 3821,
+    "transfers": 3944,
+    "creates": 3828,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -3760,6 +3760,15 @@
       "source": "Go Ahead Eagles",
       "target": "AZ",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|80148|1142631|AZ",
+      "fc_id": "80148",
+      "tm_id": "1142631",
+      "player": "Jerolldino Bergraaf",
+      "source": "Excelsior",
+      "target": "AZ",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|274528|801031|AZ",
@@ -9054,6 +9063,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|223969|315968|Crewe Alexandra",
+      "fc_id": "223969",
+      "tm_id": "315968",
+      "player": "James Jones",
+      "source": "Burton Albion",
+      "target": "Crewe Alexandra",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|254135|614811|Crewe Alexandra",
       "fc_id": "254135",
       "tm_id": "614811",
@@ -9295,6 +9313,15 @@
       "source": "FK Haugesund",
       "target": "Damac FC",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|76780|1368318|Damac FC",
+      "fc_id": "76780",
+      "tm_id": "1368318",
+      "player": "Khalid Hazazi",
+      "source": "Al Qadsiah",
+      "target": "Damac FC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|259361|836251|Defensa y Justicia",
@@ -36362,6 +36389,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1242209|Ajax|daily",
+      "fc_id": "-",
+      "tm_id": "1242209",
+      "player": "Mohamed Abdalla",
+      "source": "-",
+      "target": "Ajax",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|515744|Al Ahli|75",
       "fc_id": "-",
       "tm_id": "515744",
@@ -48503,6 +48539,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1274533|FC Twente|daily",
+      "fc_id": "-",
+      "tm_id": "1274533",
+      "player": "Jip Meilink",
+      "source": "-",
+      "target": "FC Twente",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|895089|FC Twente|1146",
       "fc_id": "-",
       "tm_id": "895089",
@@ -49347,6 +49392,15 @@
       "source": "-",
       "target": "Fortuna Sittard",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1537558|Fortuna Sittard|daily",
+      "fc_id": "-",
+      "tm_id": "1537558",
+      "player": "Kevin van Burgsteden",
+      "source": "-",
+      "target": "Fortuna Sittard",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|639974|Fortuna Sittard|1219",
@@ -57854,6 +57908,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1409808|NAC Breda|daily",
+      "fc_id": "-",
+      "tm_id": "1409808",
+      "player": "Elijah Ikpia",
+      "source": "-",
+      "target": "NAC Breda",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|646698|NAC Breda|daily",
       "fc_id": "-",
       "tm_id": "646698",
@@ -57888,6 +57951,15 @@
       "source": "-",
       "target": "NAC Breda",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1015486|NAC Breda|daily",
+      "fc_id": "-",
+      "tm_id": "1015486",
+      "player": "Karim Mperanyi",
+      "source": "-",
+      "target": "NAC Breda",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|546225|NAC Breda|daily",
@@ -60486,6 +60558,15 @@
       "fc_id": "-",
       "tm_id": "1146761",
       "player": "Khadim Ngom",
+      "source": "-",
+      "target": "PSV",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1239626|PSV|daily",
+      "fc_id": "-",
+      "tm_id": "1239626",
+      "player": "Shuryjano Cornecion",
       "source": "-",
       "target": "PSV",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -69273,6 +69354,15 @@
       "source": "-",
       "target": "Wolfsberger AC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|493674|Wolfsberger AC|daily",
+      "fc_id": "-",
+      "tm_id": "493674",
+      "player": "Jack Lahne",
+      "source": "-",
+      "target": "Wolfsberger AC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|919516|Wolfsberger AC|3020",
@@ -90590,14 +90680,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-04T11:06:26+00:00",
+  "last_checked_at": "2026-11-05T11:07:16+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 5,
-    "added_transfers": 0,
+    "changed_players": 17,
+    "added_transfers": 3,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 2,
+    "review_items": 8,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
