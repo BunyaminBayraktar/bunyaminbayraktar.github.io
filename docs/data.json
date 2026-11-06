@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3944,
-    "creates": 3828,
+    "creates": 3835,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -44111,6 +44111,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1182381|Cremonese|daily",
+      "fc_id": "-",
+      "tm_id": "1182381",
+      "player": "Simone Marsi",
+      "source": "-",
+      "target": "Cremonese",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|667627|Cremonese|735",
       "fc_id": "-",
       "tm_id": "667627",
@@ -45648,6 +45657,15 @@
       "source": "-",
       "target": "East Bengal FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1162872|East Bengal FC|daily",
+      "fc_id": "-",
+      "tm_id": "1162872",
+      "player": "Sonam Tsewang Lhokham",
+      "source": "-",
+      "target": "East Bengal FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|878419|Eintracht Braunschweig|daily",
@@ -52067,13 +52085,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|369523|Heart of Midlothian|1455",
+      "key": "CREATE|-|369523|Heart of Midlothian|daily",
       "fc_id": "-",
       "tm_id": "369523",
       "player": "Kieran Wright",
       "source": "-",
       "target": "Heart of Midlothian",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1150286|Heart of Midlothian|1458",
@@ -57215,6 +57233,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1091981|Mohammedan SC|daily",
+      "fc_id": "-",
+      "tm_id": "1091981",
+      "player": "Shiba Mandi",
+      "source": "-",
+      "target": "Mohammedan SC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1256200|Mohammedan SC|1921",
       "fc_id": "-",
       "tm_id": "1256200",
@@ -57276,6 +57303,15 @@
       "source": "-",
       "target": "Mohun Bagan Super Giant",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1227488|Mohun Bagan Super Giant|daily",
+      "fc_id": "-",
+      "tm_id": "1227488",
+      "player": "Thangjam Roshan Singh",
+      "source": "-",
+      "target": "Mohun Bagan Super Giant",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1191229|Molde FK|1937",
@@ -57746,6 +57782,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1118972|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "1118972",
+      "player": "Harsh Kadam",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1118469|Mumbai City FC|daily",
       "fc_id": "-",
       "tm_id": "1118469",
@@ -57789,6 +57834,15 @@
       "source": "-",
       "target": "Mumbai City FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1118977|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "1118977",
+      "player": "Steiner D'Souza",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1133194|Mumbai City FC|daily",
@@ -59391,6 +59445,15 @@
       "source": "-",
       "target": "Paris Saint-Germain",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1193405|Paris Saint-Germain|daily",
+      "fc_id": "-",
+      "tm_id": "1193405",
+      "player": "David Boly",
+      "source": "-",
+      "target": "Paris Saint-Germain",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1087009|Parma|2114",
@@ -90680,14 +90743,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-05T11:07:16+00:00",
+  "last_checked_at": "2026-11-06T11:04:19+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 17,
-    "added_transfers": 3,
+    "changed_players": 26,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 8,
+    "review_items": 9,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
