@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3944,
-    "creates": 3835,
+    "creates": 3839,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -36380,6 +36380,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1353597|AJ Auxerre|daily",
+      "fc_id": "-",
+      "tm_id": "1353597",
+      "player": "Mohamed Coulibaly",
+      "source": "-",
+      "target": "AJ Auxerre",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1119338|AJ Auxerre|74",
       "fc_id": "-",
       "tm_id": "1119338",
@@ -37503,6 +37512,15 @@
       "source": "-",
       "target": "Aldosivi",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1432704|Aldosivi|daily",
+      "fc_id": "-",
+      "tm_id": "1432704",
+      "player": "Mateo Vales",
+      "source": "-",
+      "target": "Aldosivi",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|582168|Aldosivi|158",
@@ -48368,6 +48386,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|639031|FC Seoul|daily",
+      "fc_id": "-",
+      "tm_id": "639031",
+      "player": "Sang-hoon Paik",
+      "source": "-",
+      "target": "FC Seoul",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1426541|FC Seoul|1124",
       "fc_id": "-",
       "tm_id": "1426541",
@@ -56844,6 +56871,15 @@
       "source": "-",
       "target": "Metaloglobus București",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|436078|Metaloglobus București|daily",
+      "fc_id": "-",
+      "tm_id": "436078",
+      "player": "Ricardo Grigore",
+      "source": "-",
+      "target": "Metaloglobus București",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1514209|Metaloglobus București|1898",
@@ -90743,14 +90779,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-06T11:04:19+00:00",
+  "last_checked_at": "2026-11-07T10:23:40+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 26,
+    "changed_players": 6,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 9,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
