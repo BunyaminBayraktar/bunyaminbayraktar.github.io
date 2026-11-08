@@ -1,7 +1,7 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3944,
+    "transfers": 3946,
     "creates": 3839,
     "exists": 2302,
     "unresolved": 0,
@@ -8899,6 +8899,15 @@
       "source": "US Boulogne",
       "target": "Cracovia",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|200742|156939|Crawley Town",
+      "fc_id": "200742",
+      "tm_id": "156939",
+      "player": "Ben Heneghan",
+      "source": "Port Vale",
+      "target": "Crawley Town",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|72454|807418|Crawley Town",
@@ -24280,6 +24289,15 @@
       "source": "Bristol City",
       "target": "Preston North End",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|224842|227618|Preston North End",
+      "fc_id": "224842",
+      "tm_id": "227618",
+      "player": "Greg Docherty",
+      "source": "Charlton Athletic",
+      "target": "Preston North End",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|245729|528892|Preston North End",
@@ -51977,13 +51995,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|979260|Harrogate Town|1448",
+      "key": "CREATE|-|979260|Harrogate Town|daily",
       "fc_id": "-",
       "tm_id": "979260",
       "player": "Rohan Vaughan",
       "source": "-",
       "target": "Harrogate Town",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|344916|Harrogate Town|1440",
@@ -60500,13 +60518,13 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|-|1354021|Portsmouth|2206",
+      "key": "CREATE|-|1354021|Portsmouth|daily",
       "fc_id": "-",
       "tm_id": "1354021",
       "player": "Chinedu Agu",
       "source": "-",
       "target": "Portsmouth",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1079595|Portsmouth|2209",
@@ -90779,14 +90797,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-07T10:23:40+00:00",
+  "last_checked_at": "2026-11-08T13:03:17+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 6,
-    "added_transfers": 0,
+    "changed_players": 8,
+    "added_transfers": 2,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 4,
+    "review_items": 2,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
