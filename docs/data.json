@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3946,
-    "creates": 3839,
+    "creates": 3840,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -772,6 +772,15 @@
       "source": "Norwich City",
       "target": "Accrington Stanley",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|252587|671486|Accrington Stanley",
+      "fc_id": "252587",
+      "tm_id": "671486",
+      "player": "Ronan Darcy",
+      "source": "Crawley Town",
+      "target": "Accrington Stanley",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|74735|1279526|ACF Fiorentina",
@@ -34830,15 +34839,6 @@
       "reason": "-"
     },
     {
-      "key": "TRANSFER|252587|671486|Wigan Athletic",
-      "fc_id": "252587",
-      "tm_id": "671486",
-      "player": "Ronan Darcy",
-      "source": "Crawley Town",
-      "target": "Wigan Athletic",
-      "reason": "-"
-    },
-    {
       "key": "TRANSFER|215374|138783|Wigan Athletic",
       "fc_id": "215374",
       "tm_id": "138783",
@@ -53639,6 +53639,15 @@
       "player": "Yusuf Yılmaz",
       "source": "-",
       "target": "İstanbul Başakşehir FK",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1243670|Jagiellonia Białystok|daily",
+      "fc_id": "-",
+      "tm_id": "1243670",
+      "player": "Antoni Kozłowski",
+      "source": "-",
+      "target": "Jagiellonia Białystok",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
@@ -90797,14 +90806,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-08T13:03:17+00:00",
+  "last_checked_at": "2026-11-09T21:01:48+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 8,
-    "added_transfers": 2,
-    "updated_transfers": 0,
+    "changed_players": 10,
+    "added_transfers": 0,
+    "updated_transfers": 1,
     "returned_to_base": 0,
-    "review_items": 2,
+    "review_items": 1,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
