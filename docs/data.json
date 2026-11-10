@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3946,
-    "creates": 3840,
+    "creates": 3842,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -35543,6 +35543,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1140822|1. FC Heidenheim|daily",
+      "fc_id": "-",
+      "tm_id": "1140822",
+      "player": "Torben Leis",
+      "source": "-",
+      "target": "1. FC Heidenheim",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1290366|1. FC Kaiserslautern|2",
       "fc_id": "-",
       "tm_id": "1290366",
@@ -54828,6 +54837,15 @@
       "source": "-",
       "target": "KFUM-Kameratene Oslo",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1369420|KFUM-Kameratene Oslo|daily",
+      "fc_id": "-",
+      "tm_id": "1369420",
+      "player": "Samuel Tochukwu",
+      "source": "-",
+      "target": "KFUM-Kameratene Oslo",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|450837|Kilmarnock|1712",
@@ -90806,14 +90824,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-09T21:01:48+00:00",
+  "last_checked_at": "2026-11-10T14:13:22+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 10,
+    "changed_players": 5,
     "added_transfers": 0,
-    "updated_transfers": 1,
+    "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 1,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
