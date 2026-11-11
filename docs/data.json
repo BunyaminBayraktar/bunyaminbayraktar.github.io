@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3946,
-    "creates": 3842,
+    "creates": 3845,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -51329,6 +51329,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1625709|Grimsby Town|daily",
+      "fc_id": "-",
+      "tm_id": "1625709",
+      "player": "Charlie Elliott",
+      "source": "-",
+      "target": "Grimsby Town",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1137106|Grimsby Town|1387",
       "fc_id": "-",
       "tm_id": "1137106",
@@ -57863,6 +57872,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|981629|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "981629",
+      "player": "Hadrian",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1118972|Mumbai City FC|daily",
       "fc_id": "-",
       "tm_id": "1118972",
@@ -62430,6 +62448,15 @@
       "fc_id": "-",
       "tm_id": "507700",
       "player": "Brandon Williams",
+      "source": "-",
+      "target": "Rotherham United",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1372251|Rotherham United|daily",
+      "fc_id": "-",
+      "tm_id": "1372251",
+      "player": "Dean Gardner",
       "source": "-",
       "target": "Rotherham United",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -90824,14 +90851,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-10T14:13:22+00:00",
+  "last_checked_at": "2026-11-11T15:09:50+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 5,
+    "changed_players": 6,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 4,
+    "review_items": 3,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
