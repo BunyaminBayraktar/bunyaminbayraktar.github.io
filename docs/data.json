@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3946,
-    "creates": 3845,
+    "transfers": 3947,
+    "creates": 3849,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -8908,6 +8908,15 @@
       "source": "US Boulogne",
       "target": "Cracovia",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|265197|742494|Crawley Town",
+      "fc_id": "265197",
+      "tm_id": "742494",
+      "player": "Ayman Benarous",
+      "source": "Plymouth Argyle",
+      "target": "Crawley Town",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|200742|156939|Crawley Town",
@@ -43292,6 +43301,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1336217|Chesterfield|daily",
+      "fc_id": "-",
+      "tm_id": "1336217",
+      "player": "Gunner Elliott",
+      "source": "-",
+      "target": "Chesterfield",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1026944|Chesterfield|daily",
       "fc_id": "-",
       "tm_id": "1026944",
@@ -43992,6 +44010,15 @@
       "source": "-",
       "target": "Cracovia",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|95435|Crawley Town|daily",
+      "fc_id": "-",
+      "tm_id": "95435",
+      "player": "Connor Wickham",
+      "source": "-",
+      "target": "Crawley Town",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|803390|Crawley Town|daily",
@@ -56324,6 +56351,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1176143|Macarthur FC|daily",
+      "fc_id": "-",
+      "tm_id": "1176143",
+      "player": "Joshua Lakkis",
+      "source": "-",
+      "target": "Macarthur FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|567150|Macarthur FC|1833",
       "fc_id": "-",
       "tm_id": "567150",
@@ -67941,6 +67977,15 @@
       "source": "-",
       "target": "US Boulogne",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1579243|US Boulogne|daily",
+      "fc_id": "-",
+      "tm_id": "1579243",
+      "player": "Cheikh Ibrahim Dia",
+      "source": "-",
+      "target": "US Boulogne",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|750502|US Boulogne|daily",
@@ -90851,14 +90896,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-11T15:09:50+00:00",
+  "last_checked_at": "2026-11-12T11:27:06+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 6,
-    "added_transfers": 0,
+    "changed_players": 5,
+    "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 3,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
