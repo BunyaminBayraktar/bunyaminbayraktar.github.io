@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3947,
-    "creates": 3849,
+    "transfers": 3949,
+    "creates": 3851,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -14769,6 +14769,15 @@
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
+      "key": "TRANSFER|80723|1313578|Gillingham",
+      "fc_id": "80723",
+      "tm_id": "1313578",
+      "player": "Ernie Weaver",
+      "source": "-",
+      "target": "Gillingham",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|230126|386505|Gillingham",
       "fc_id": "230126",
       "tm_id": "386505",
@@ -27213,7 +27222,7 @@
       "player": "Sam Long",
       "source": "Bromley",
       "target": "Salford City",
-      "reason": "-"
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|248328|662956|Salford City",
@@ -30146,6 +30155,15 @@
       "tm_id": "1047099",
       "player": "Alpha Diallo",
       "source": "RC Lens",
+      "target": "Stade Lavallois MFC",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
+      "key": "TRANSFER|269288|340487|Stade Lavallois MFC",
+      "fc_id": "269288",
+      "tm_id": "340487",
+      "player": "Bryan Goncalves",
+      "source": "Dender",
       "target": "Stade Lavallois MFC",
       "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
@@ -35541,6 +35559,15 @@
       "source": "-",
       "target": "1. FC Heidenheim",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1259864|1. FC Heidenheim|daily",
+      "fc_id": "-",
+      "tm_id": "1259864",
+      "player": "Julian Eble",
+      "source": "-",
+      "target": "1. FC Heidenheim",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1344455|1. FC Heidenheim|1",
@@ -40961,13 +40988,22 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1458236|Bromley|464",
+      "key": "CREATE|-|1458236|Bromley|daily",
       "fc_id": "-",
       "tm_id": "1458236",
       "player": "Nathan Patten",
       "source": "-",
       "target": "Bromley",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1177154|Bromley|daily",
+      "fc_id": "-",
+      "tm_id": "1177154",
+      "player": "Nathan Paul-Lavaly",
+      "source": "-",
+      "target": "Bromley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|944742|Bromley|461",
@@ -50411,15 +50447,6 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|80723|1313578|Gillingham|3105",
-      "fc_id": "80723",
-      "tm_id": "1313578",
-      "player": "Harry Webster",
-      "source": "-",
-      "target": "Gillingham",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
-    },
-    {
       "key": "CREATE|-|1431675|Gillingham|daily",
       "fc_id": "-",
       "tm_id": "1431675",
@@ -57951,6 +57978,15 @@
       "source": "-",
       "target": "Mumbai City FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|79976|Mumbai City FC|daily",
+      "fc_id": "-",
+      "tm_id": "79976",
+      "player": "Luka Majcen",
+      "source": "-",
+      "target": "Mumbai City FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|249274|Mumbai City FC|1978",
@@ -66881,13 +66917,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1562773|Tranmere Rovers|2779",
+      "key": "CREATE|-|1562773|Tranmere Rovers|daily",
       "fc_id": "-",
       "tm_id": "1562773",
       "player": "Sam Mann",
       "source": "-",
       "target": "Tranmere Rovers",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1091678|Tranmere Rovers|2778",
@@ -90896,14 +90932,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-12T11:27:06+00:00",
+  "last_checked_at": "2026-11-15T13:40:01+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 5,
-    "added_transfers": 1,
+    "changed_players": 14,
+    "added_transfers": 2,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 4,
+    "review_items": 5,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
