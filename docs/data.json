@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3951,
-    "creates": 3858,
+    "transfers": 3952,
+    "creates": 3859,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -5155,6 +5155,15 @@
       "source": "Estudiantes de La Plata",
       "target": "Boston River",
       "reason": "MANUAL_WEB_VERIFIED_CURRENT_MOVE"
+    },
+    {
+      "key": "TRANSFER|260971|481272|Boston River",
+      "fc_id": "260971",
+      "tm_id": "481272",
+      "player": "Rodrigo Pineiro",
+      "source": "Vélez Sarsfield",
+      "target": "Boston River",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|73584|842217|Brøndby IF",
@@ -48224,6 +48233,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1306998|FC Metz|daily",
+      "fc_id": "-",
+      "tm_id": "1306998",
+      "player": "Bryan Song",
+      "source": "-",
+      "target": "FC Metz",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|931671|FC Metz|1101",
       "fc_id": "-",
       "tm_id": "931671",
@@ -91013,14 +91031,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-16T13:18:09+00:00",
+  "last_checked_at": "2026-11-17T12:01:23+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 12,
-    "added_transfers": 2,
+    "changed_players": 3,
+    "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 7,
+    "review_items": 1,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
