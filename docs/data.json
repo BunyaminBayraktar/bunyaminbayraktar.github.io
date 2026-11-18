@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3952,
-    "creates": 3859,
+    "creates": 3867,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -52778,6 +52778,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1284934|Holstein Kiel|daily",
+      "fc_id": "-",
+      "tm_id": "1284934",
+      "player": "Mark Richter Monserrat",
+      "source": "-",
+      "target": "Holstein Kiel",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1084639|Holstein Kiel|1512",
       "fc_id": "-",
       "tm_id": "1084639",
@@ -52812,6 +52821,15 @@
       "source": "-",
       "target": "Holstein Kiel",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1282916|Holstein Kiel|daily",
+      "fc_id": "-",
+      "tm_id": "1282916",
+      "player": "Till Wiese",
+      "source": "-",
+      "target": "Holstein Kiel",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1517854|Houston Dynamo|daily",
@@ -53604,6 +53622,15 @@
       "source": "-",
       "target": "Independiente Petrolero",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1597024|Independiente Petrolero|daily",
+      "fc_id": "-",
+      "tm_id": "1597024",
+      "player": "Santiago Chavez",
+      "source": "-",
+      "target": "Independiente Petrolero",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|598934|Independiente Petrolero|1567",
@@ -60905,6 +60932,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1230322|Punjab FC|daily",
+      "fc_id": "-",
+      "tm_id": "1230322",
+      "player": "Arshvir Singh",
+      "source": "-",
+      "target": "Punjab FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|857670|Punjab FC|daily",
       "fc_id": "-",
       "tm_id": "857670",
@@ -63261,6 +63297,15 @@
       "source": "-",
       "target": "Santa Clara",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1542314|Santa Clara|daily",
+      "fc_id": "-",
+      "tm_id": "1542314",
+      "player": "Seydou Fofana",
+      "source": "-",
+      "target": "Santa Clara",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1219125|Santa Clara|2422",
@@ -68483,6 +68528,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1197895|Vélez Sarsfield|daily",
+      "fc_id": "-",
+      "tm_id": "1197895",
+      "player": "Franco Villalba",
+      "source": "-",
+      "target": "Vélez Sarsfield",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1290990|Vélez Sarsfield|2909",
       "fc_id": "-",
       "tm_id": "1290990",
@@ -68517,6 +68571,15 @@
       "source": "-",
       "target": "Vélez Sarsfield",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1314997|Vélez Sarsfield|daily",
+      "fc_id": "-",
+      "tm_id": "1314997",
+      "player": "Simón Prima",
+      "source": "-",
+      "target": "Vélez Sarsfield",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1456581|Vélez Sarsfield|2911",
@@ -69705,6 +69768,15 @@
       "source": "-",
       "target": "Wolfsberger AC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1456717|Wolfsberger AC|daily",
+      "fc_id": "-",
+      "tm_id": "1456717",
+      "player": "Aboubacar Drabo",
+      "source": "-",
+      "target": "Wolfsberger AC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|493674|Wolfsberger AC|daily",
@@ -91031,14 +91103,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-17T12:01:23+00:00",
+  "last_checked_at": "2026-11-18T21:23:57+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 3,
-    "added_transfers": 1,
+    "changed_players": 13,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 1,
+    "review_items": 8,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
