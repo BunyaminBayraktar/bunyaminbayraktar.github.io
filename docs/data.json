@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3952,
-    "creates": 3867,
+    "creates": 3868,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -47513,6 +47513,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1343164|FC Basel|daily",
+      "fc_id": "-",
+      "tm_id": "1343164",
+      "player": "Jean Doucouré",
+      "source": "-",
+      "target": "FC Basel",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1141521|FC Basel|1029",
       "fc_id": "-",
       "tm_id": "1141521",
@@ -91103,14 +91112,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-18T21:23:57+00:00",
+  "last_checked_at": "2026-11-19T11:50:38+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 13,
+    "changed_players": 3,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 8,
+    "review_items": 1,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
