@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3952,
-    "creates": 3868,
+    "creates": 3875,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -39863,6 +39863,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1185852|Barnsley|daily",
+      "fc_id": "-",
+      "tm_id": "1185852",
+      "player": "Rylan Brownlie",
+      "source": "-",
+      "target": "Barnsley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|289149|Barracas Central|357",
       "fc_id": "-",
       "tm_id": "289149",
@@ -41042,13 +41051,13 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|-|790994|Bromley|465",
+      "key": "CREATE|-|790994|Bromley|daily",
       "fc_id": "-",
       "tm_id": "790994",
       "player": "Josh Tobin",
       "source": "-",
       "target": "Bromley",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1458236|Bromley|daily",
@@ -41076,6 +41085,15 @@
       "source": "-",
       "target": "Bromley",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|314295|Bromley|daily",
+      "fc_id": "-",
+      "tm_id": "314295",
+      "player": "Reece Oxford",
+      "source": "-",
+      "target": "Bromley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|855306|Bromley|466",
@@ -41670,6 +41688,15 @@
       "source": "-",
       "target": "Cádiz CF",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1581598|Cádiz CF|daily",
+      "fc_id": "-",
+      "tm_id": "1581598",
+      "player": "Manu Rivera",
+      "source": "-",
+      "target": "Cádiz CF",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1487970|Cádiz CF|daily",
@@ -44336,6 +44363,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1047262|Crystal Palace|daily",
+      "fc_id": "-",
+      "tm_id": "1047262",
+      "player": "Joseph Gibbard",
+      "source": "-",
+      "target": "Crystal Palace",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1031980|Cusco FC|744",
       "fc_id": "-",
       "tm_id": "1031980",
@@ -44762,7 +44798,7 @@
       "key": "CREATE|-|1482874|Dender|daily",
       "fc_id": "-",
       "tm_id": "1482874",
-      "player": "Oumar Balde",
+      "player": "Oumar Baldé",
       "source": "-",
       "target": "Dender",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -45596,6 +45632,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|920101|Dynamo Dresden|daily",
+      "fc_id": "-",
+      "tm_id": "920101",
+      "player": "Aaron Riedel",
+      "source": "-",
+      "target": "Dynamo Dresden",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|271323|Dynamo Dresden|857",
       "fc_id": "-",
       "tm_id": "271323",
@@ -45612,6 +45657,15 @@
       "source": "-",
       "target": "Dynamo Dresden",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1279160|Dynamo Dresden|daily",
+      "fc_id": "-",
+      "tm_id": "1279160",
+      "player": "Niklas Remus",
+      "source": "-",
+      "target": "Dynamo Dresden",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1149111|Dynamo Dresden|858",
@@ -70202,6 +70256,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|242797|Zagłębie Lubin|daily",
+      "fc_id": "-",
+      "tm_id": "242797",
+      "player": "Sebastian Bonecki",
+      "source": "-",
+      "target": "Zagłębie Lubin",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1345954|Zagłębie Lubin|3066",
       "fc_id": "-",
       "tm_id": "1345954",
@@ -91112,14 +91175,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-19T11:50:38+00:00",
+  "last_checked_at": "2026-11-21T18:02:40+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 3,
+    "changed_players": 23,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 1,
+    "review_items": 9,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
