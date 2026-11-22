@@ -43409,13 +43409,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1047504|Chesterfield|658",
+      "key": "CREATE|-|1047504|Chesterfield|daily",
       "fc_id": "-",
       "tm_id": "1047504",
       "player": "Danni Anisjko",
       "source": "-",
       "target": "Chesterfield",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|972367|Chesterfield|659",
@@ -56279,13 +56279,13 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|-|1225833|Leyton Orient|1808",
+      "key": "CREATE|-|1225833|Leyton Orient|daily",
       "fc_id": "-",
       "tm_id": "1225833",
       "player": "Zac Hambury",
       "source": "-",
       "target": "Leyton Orient",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1362245|Leyton Orient|daily",
@@ -91175,14 +91175,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-21T18:02:40+00:00",
+  "last_checked_at": "2026-11-22T11:37:35+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 23,
+    "changed_players": 2,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 9,
+    "review_items": 2,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
