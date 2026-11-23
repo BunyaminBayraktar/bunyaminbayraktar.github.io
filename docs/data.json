@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3952,
-    "creates": 3875,
+    "creates": 3877,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -62867,6 +62867,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1332008|Sampdoria|daily",
+      "fc_id": "-",
+      "tm_id": "1332008",
+      "player": "Lorenzo Mezzotero",
+      "source": "-",
+      "target": "Sampdoria",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|242537|Sampdoria|daily",
       "fc_id": "-",
       "tm_id": "242537",
@@ -65772,6 +65781,15 @@
       "source": "-",
       "target": "St Patrick's Athletic",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1131159|Stade Brestois 29|daily",
+      "fc_id": "-",
+      "tm_id": "1131159",
+      "player": "Ibrahim Yayiya Kanté",
+      "source": "-",
+      "target": "Stade Brestois 29",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1188254|Stade Brestois 29|daily",
@@ -91175,7 +91193,7 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-22T11:37:35+00:00",
+  "last_checked_at": "2026-11-23T13:05:41+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
     "changed_players": 2,
