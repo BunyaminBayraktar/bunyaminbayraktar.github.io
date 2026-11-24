@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3952,
-    "creates": 3877,
+    "transfers": 3955,
+    "creates": 3891,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -18639,6 +18639,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|190120|112822|Lech Poznań",
+      "fc_id": "190120",
+      "tm_id": "112822",
+      "player": "Karl-Johan Johnsson",
+      "source": "RC Strasbourg",
+      "target": "Lech Poznań",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|232007|345437|Lech Poznań",
       "fc_id": "232007",
       "tm_id": "345437",
@@ -29214,6 +29223,15 @@
       "reason": "-"
     },
     {
+      "key": "TRANSFER|80565|930568|Southampton",
+      "fc_id": "80565",
+      "tm_id": "930568",
+      "player": "Princewill Ehibhatiomhan",
+      "source": "Salford City",
+      "target": "Southampton",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
+    },
+    {
       "key": "TRANSFER|71147|990836|Southampton",
       "fc_id": "71147",
       "tm_id": "990836",
@@ -30562,6 +30580,15 @@
       "source": "Swansea City",
       "target": "Stoke City",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|74359|1169857|Stoke City",
+      "fc_id": "74359",
+      "tm_id": "1169857",
+      "player": "Freddie Anderson",
+      "source": "Barrow",
+      "target": "Stoke City",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|233602|420808|Stoke City",
@@ -39746,13 +39773,13 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
-      "key": "CREATE|-|1434712|Barnet|350",
+      "key": "CREATE|-|1434712|Barnet|daily",
       "fc_id": "-",
       "tm_id": "1434712",
       "player": "Bright Siaw",
       "source": "-",
       "target": "Barnet",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|869884|Barnet|daily",
@@ -40466,6 +40493,33 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1083748|Blackburn Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1083748",
+      "player": "Frank Vare",
+      "source": "-",
+      "target": "Blackburn Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1135367|Blackburn Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1135367",
+      "player": "Harvey Higgins",
+      "source": "-",
+      "target": "Blackburn Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1257581|Blackburn Rovers|daily",
+      "fc_id": "-",
+      "tm_id": "1257581",
+      "player": "Harvey Pates",
+      "source": "-",
+      "target": "Blackburn Rovers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1341074|Blackpool|411",
       "fc_id": "-",
       "tm_id": "1341074",
@@ -40707,6 +40761,15 @@
       "source": "-",
       "target": "Bologna",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1098415|Bolton Wanderers|daily",
+      "fc_id": "-",
+      "tm_id": "1098415",
+      "player": "Max Lott",
+      "source": "-",
+      "target": "Bolton Wanderers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1311594|Borussia Dortmund|437",
@@ -41555,6 +41618,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|724041|Burnley|daily",
+      "fc_id": "-",
+      "tm_id": "724041",
+      "player": "Enock Agyei",
+      "source": "-",
+      "target": "Burnley",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|380350|Burnley|daily",
       "fc_id": "-",
       "tm_id": "380350",
@@ -41832,6 +41904,15 @@
       "source": "-",
       "target": "Caracas FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1263699|Cardiff City|daily",
+      "fc_id": "-",
+      "tm_id": "1263699",
+      "player": "Charlie Holt",
+      "source": "-",
+      "target": "Cardiff City",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1073085|Cardiff City|529",
@@ -42333,6 +42414,15 @@
       "fc_id": "-",
       "tm_id": "1435608",
       "player": "Gabriel Tilo",
+      "source": "-",
+      "target": "Central Coast Mariners",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1615974|Central Coast Mariners|daily",
+      "fc_id": "-",
+      "tm_id": "1615974",
+      "player": "Isaac Kwon",
       "source": "-",
       "target": "Central Coast Mariners",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -45090,6 +45180,15 @@
       "source": "-",
       "target": "Deportivo Riestra",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1085930|Derby County|daily",
+      "fc_id": "-",
+      "tm_id": "1085930",
+      "player": "Isaac Gordon",
+      "source": "-",
+      "target": "Derby County",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|703661|Derby County|daily",
@@ -60869,6 +60968,24 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1366886|Preston North End|daily",
+      "fc_id": "-",
+      "tm_id": "1366886",
+      "player": "Ed Nolan",
+      "source": "-",
+      "target": "Preston North End",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1447745|Preston North End|daily",
+      "fc_id": "-",
+      "tm_id": "1447745",
+      "player": "George Gryba",
+      "source": "-",
+      "target": "Preston North End",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|969560|Preston North End|2211",
       "fc_id": "-",
       "tm_id": "969560",
@@ -61416,6 +61533,15 @@
       "source": "-",
       "target": "Qingdao West Coast FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1376840|Queens Park Rangers|daily",
+      "fc_id": "-",
+      "tm_id": "1376840",
+      "player": "Leon Scarlett",
+      "source": "-",
+      "target": "Queens Park Rangers",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|879371|Queens Park Rangers|daily",
@@ -66080,6 +66206,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1175950|Stoke City|daily",
+      "fc_id": "-",
+      "tm_id": "1175950",
+      "player": "Tyler Martin",
+      "source": "-",
+      "target": "Stoke City",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1141940|Strømsgodset Toppfotball|2688",
       "fc_id": "-",
       "tm_id": "1141940",
@@ -67041,6 +67176,15 @@
       "source": "-",
       "target": "Toronto FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1108475|Tottenham Hotspur|daily",
+      "fc_id": "-",
+      "tm_id": "1108475",
+      "player": "Luca Williams-Barnett",
+      "source": "-",
+      "target": "Tottenham Hotspur",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|537860|Tottenham Hotspur|daily",
@@ -69489,6 +69633,15 @@
       "source": "-",
       "target": "Werder Bremen",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1281422|West Bromwich Albion|daily",
+      "fc_id": "-",
+      "tm_id": "1281422",
+      "player": "Matthew Crowther",
+      "source": "-",
+      "target": "West Bromwich Albion",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1108668|West Ham United|daily",
@@ -91193,14 +91346,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-23T13:05:41+00:00",
+  "last_checked_at": "2026-11-24T20:07:00+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 2,
-    "added_transfers": 0,
+    "changed_players": 30,
+    "added_transfers": 3,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 2,
+    "review_items": 16,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
