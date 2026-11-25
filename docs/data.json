@@ -1,8 +1,8 @@
 {
   "generated_from": "output_final",
   "summary": {
-    "transfers": 3955,
-    "creates": 3891,
+    "transfers": 3956,
+    "creates": 3894,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -4093,6 +4093,15 @@
       "source": "Defensa y Justicia",
       "target": "Barracas Central",
       "reason": "-"
+    },
+    {
+      "key": "TRANSFER|241438|425764|Barrow",
+      "fc_id": "241438",
+      "tm_id": "425764",
+      "player": "Kelsey Mooney",
+      "source": "Accrington Stanley",
+      "target": "Barrow",
+      "reason": "DAILY_TRANSFERMARKT_ROSTER_CHANGE"
     },
     {
       "key": "TRANSFER|83928|1212264|Barrow",
@@ -44453,6 +44462,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1285027|Crystal Palace|daily",
+      "fc_id": "-",
+      "tm_id": "1285027",
+      "player": "David Angibeaud",
+      "source": "-",
+      "target": "Crystal Palace",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1047262|Crystal Palace|daily",
       "fc_id": "-",
       "tm_id": "1047262",
@@ -46953,6 +46971,15 @@
       "source": "-",
       "target": "Eyüpspor",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1438891|Eyüpspor|daily",
+      "fc_id": "-",
+      "tm_id": "1438891",
+      "player": "Halil İbrahim Balta",
+      "source": "-",
+      "target": "Eyüpspor",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|727152|Eyüpspor|965",
@@ -70571,6 +70598,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1216307|Zulte Waregem|daily",
+      "fc_id": "-",
+      "tm_id": "1216307",
+      "player": "Franz Tangala",
+      "source": "-",
+      "target": "Zulte Waregem",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1153876|Zulte Waregem|3083",
       "fc_id": "-",
       "tm_id": "1153876",
@@ -91346,14 +91382,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-24T20:07:00+00:00",
+  "last_checked_at": "2026-11-25T13:08:22+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 30,
-    "added_transfers": 3,
+    "changed_players": 9,
+    "added_transfers": 1,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 16,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
