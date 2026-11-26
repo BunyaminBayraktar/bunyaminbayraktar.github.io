@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3956,
-    "creates": 3894,
+    "creates": 3896,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -42707,6 +42707,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1459479|Cerro Porteño|daily",
+      "fc_id": "-",
+      "tm_id": "1459479",
+      "player": "Josué Servín",
+      "source": "-",
+      "target": "Cerro Porteño",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|424984|Cerro Porteño|580",
       "fc_id": "-",
       "tm_id": "424984",
@@ -54911,13 +54920,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|1182635|Kayserispor|1700",
+      "key": "CREATE|-|1182635|Kayserispor|daily",
       "fc_id": "-",
       "tm_id": "1182635",
       "player": "Arda Kaya",
       "source": "-",
       "target": "Kayserispor",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1383478|Kayserispor|1697",
@@ -68373,6 +68382,15 @@
       "source": "-",
       "target": "Universitatea Craiova",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1002053|Universitatea Craiova|daily",
+      "fc_id": "-",
+      "tm_id": "1002053",
+      "player": "Sebastian Șerban",
+      "source": "-",
+      "target": "Universitatea Craiova",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|975431|US Boulogne|2878",
@@ -91382,14 +91400,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-25T13:08:22+00:00",
+  "last_checked_at": "2026-11-26T12:47:47+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 9,
-    "added_transfers": 1,
+    "changed_players": 5,
+    "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 4,
+    "review_items": 3,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
