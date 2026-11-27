@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3956,
-    "creates": 3896,
+    "creates": 3899,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -36119,6 +36119,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1395507|Academia Puerto Cabello|daily",
+      "fc_id": "-",
+      "tm_id": "1395507",
+      "player": "Fabricio Baptista",
+      "source": "-",
+      "target": "Academia Puerto Cabello",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1149998|Academia Puerto Cabello|48",
       "fc_id": "-",
       "tm_id": "1149998",
@@ -50015,13 +50024,13 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
-      "key": "CREATE|-|251838|Galway United|1241",
+      "key": "CREATE|-|251838|Galway United|daily",
       "fc_id": "-",
       "tm_id": "251838",
       "player": "Dylan Connolly",
       "source": "-",
       "target": "Galway United",
-      "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|1568293|Galway United|daily",
@@ -62201,6 +62210,15 @@
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
+      "key": "CREATE|-|1077438|Real Oviedo|daily",
+      "fc_id": "-",
+      "tm_id": "1077438",
+      "player": "Mate Sauri",
+      "source": "-",
+      "target": "Real Oviedo",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|1228715|Real Oviedo|2310",
       "fc_id": "-",
       "tm_id": "1228715",
@@ -64862,6 +64880,15 @@
       "player": "Yanis Ngoy",
       "source": "-",
       "target": "Sint-Truiden",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1461598|SK Brann|daily",
+      "fc_id": "-",
+      "tm_id": "1461598",
+      "player": "Brage Haugen",
+      "source": "-",
+      "target": "SK Brann",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
@@ -91400,14 +91427,14 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-26T12:47:47+00:00",
+  "last_checked_at": "2026-11-27T13:27:20+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 5,
+    "changed_players": 12,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
-    "review_items": 3,
+    "review_items": 4,
     "pruned_unresolved": 0,
     "teams_checked": 637,
     "teams_succeeded": 637,
