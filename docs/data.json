@@ -2,7 +2,7 @@
   "generated_from": "output_final",
   "summary": {
     "transfers": 3956,
-    "creates": 3899,
+    "creates": 3903,
     "exists": 2302,
     "unresolved": 0,
     "fc26_unnamed_ids": 335
@@ -38666,6 +38666,15 @@
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
     },
     {
+      "key": "CREATE|-|1631651|Arka Gdynia|daily",
+      "fc_id": "-",
+      "tm_id": "1631651",
+      "player": "Jan Strzecki",
+      "source": "-",
+      "target": "Arka Gdynia",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
       "key": "CREATE|-|625882|Arka Gdynia|246",
       "fc_id": "-",
       "tm_id": "625882",
@@ -40023,6 +40032,15 @@
       "source": "-",
       "target": "Barrow",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|875844|Barrow|daily",
+      "fc_id": "-",
+      "tm_id": "875844",
+      "player": "Kevin Joshua",
+      "source": "-",
+      "target": "Barrow",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|733301|Barrow|363",
@@ -41913,6 +41931,15 @@
       "source": "-",
       "target": "Caracas FC",
       "reason": "NO_SAFE_FC26_IDENTITY_MATCH_AFTER_98_45_NAME_COVERAGE"
+    },
+    {
+      "key": "CREATE|-|1323183|Caracas FC|daily",
+      "fc_id": "-",
+      "tm_id": "1323183",
+      "player": "Luigi Pagano",
+      "source": "-",
+      "target": "Caracas FC",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
     },
     {
       "key": "CREATE|-|900477|Caracas FC|526",
@@ -60810,6 +60837,15 @@
       "fc_id": "-",
       "tm_id": "1136967",
       "player": "Isaiah Eichie",
+      "source": "-",
+      "target": "Pogoń Szczecin",
+      "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
+    },
+    {
+      "key": "CREATE|-|1211582|Pogoń Szczecin|daily",
+      "fc_id": "-",
+      "tm_id": "1211582",
+      "player": "Jakub Zawadzki",
       "source": "-",
       "target": "Pogoń Szczecin",
       "reason": "DAILY_CHANGE_NO_SAFE_FC26_IDENTITY"
@@ -91427,10 +91463,10 @@
     }
   ],
   "unresolved": [],
-  "last_checked_at": "2026-11-27T13:27:20+00:00",
+  "last_checked_at": "2026-11-28T12:57:41+00:00",
   "data_source": "Transfermarkt public club rosters",
   "daily_refresh": {
-    "changed_players": 12,
+    "changed_players": 9,
     "added_transfers": 0,
     "updated_transfers": 0,
     "returned_to_base": 0,
